@@ -21,7 +21,7 @@ DTSTART;TZID=Asia/Shanghai:20260612T030000
 DTEND;TZID=Asia/Shanghai:20260612T045000
 SUMMARY:【A组·第1轮】🇲🇽 墨西哥 vs 🇿🇦 南非
 LOCATION:Estadio Azteca, Mexico City
-DESCRIPTION:🏟️ 墨西哥城·阿兹特克球场\n🌟 揭幕战！阿兹特克球场第3次承办世界杯揭幕战，墨西哥球迷的热情将点燃全场。\n📌 官方编号：MATCH 1
+DESCRIPTION:🏟️ 墨西哥城·阿兹特克球场\n🌟 揭幕战！阿兹特克球场第3次承办世界杯揭幕战，墨西哥球迷的热情将点燃全场。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -173,6 +173,19 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260616T000000
+DTEND;TZID=Asia/Shanghai:20260616T015000
+SUMMARY:【H组·第1轮】🇪🇸 西班牙 vs 🇨🇻 佛得角
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:🏟️ 亚特兰大·梅赛德斯-奔驰体育场\n🌟 西班牙传控风暴对阵世界杯新军佛得角！佛得角首次登上世界杯舞台，面对2010年冠军西班牙，年轻球员将与世界顶级球星同场竞技。西班牙作为种子队需拿下开门红，佛得角则渴望在历史首秀中展现非洲足球的韧性。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：西班牙 vs 佛得角 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260616T030000
 DTEND;TZID=Asia/Shanghai:20260616T045000
 SUMMARY:【G组·第1轮】🇧🇪 比利时 vs 🇪🇬 埃及
@@ -208,19 +221,6 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:⚽ 世界杯提醒：伊朗 vs 新西兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T120000
-DTEND;TZID=Asia/Shanghai:20260616T135000
-SUMMARY:【J组·第1轮】🇦🇹 奥地利 vs 🇯🇴 约旦
-LOCATION:Arrowhead Stadium, Kansas City
-DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 欧洲新锐奥地利对阵世界杯新军约旦。奥地利在朗尼克带领下足球面貌焕然一新，萨比策、莱默尔等实力派球员坐镇中场；约旦历史上首次跻身世界杯。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：奥地利 vs 约旦 30分钟后开始
 END:VALARM
 END:VEVENT
 
@@ -264,6 +264,19 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260617T120000
+DTEND;TZID=Asia/Shanghai:20260617T135000
+SUMMARY:【J组·第1轮】🇦🇹 奥地利 vs 🇯🇴 约旦
+LOCATION:Levi's Stadium, San Francisco Bay Area
+DESCRIPTION:🏟️ 旧金山湾区·李维斯体育场\n🌟 欧洲新锐奥地利对阵世界杯新军约旦。奥地利在朗尼克带领下足球面貌焕然一新，萨比策、莱默尔等实力派球员坐镇中场；约旦历史上首次跻身世界杯。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：奥地利 vs 约旦 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260618T010000
 DTEND;TZID=Asia/Shanghai:20260618T025000
 SUMMARY:【K组·第1轮】🇵🇹 葡萄牙 vs 🇨🇩 刚果民主共和国
@@ -292,19 +305,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260618T070000
 DTEND;TZID=Asia/Shanghai:20260618T085000
-SUMMARY:【K组·第1轮】🇺🇿 乌兹别克斯坦 vs 🇨🇴 哥伦比亚
-LOCATION:Estadio Azteca, Mexico City
-DESCRIPTION:🏟️ 墨西哥城·阿兹特克球场\n🌟 中亚劲旅乌兹别克斯坦首次亮相世界杯，挑战南美豪强哥伦比亚。乌兹别克斯坦历经多年冲击世界杯终于圆梦，肖穆罗多夫领衔的球队渴望在世界杯赛场证明自己。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：乌兹别克斯坦 vs 哥伦比亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T100000
-DTEND;TZID=Asia/Shanghai:20260618T115000
 SUMMARY:【L组·第1轮】🇬🇭 加纳 vs 🇵🇦 巴拿马
 LOCATION:BMO Field, Toronto
 DESCRIPTION:🏟️ 多伦多·BMO球场\n🌟 非洲黑星加纳对阵中北美劲旅巴拿马。加纳队托马斯等英超球星领衔，巴拿马则是第二次参加世界杯，渴望在小组赛取得队史首胜。
@@ -312,6 +312,19 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:⚽ 世界杯提醒：加纳 vs 巴拿马 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260618T100000
+DTEND;TZID=Asia/Shanghai:20260618T115000
+SUMMARY:【K组·第1轮】🇺🇿 乌兹别克斯坦 vs 🇨🇴 哥伦比亚
+LOCATION:Estadio Azteca, Mexico City
+DESCRIPTION:🏟️ 墨西哥城·阿兹特克球场\n🌟 中亚劲旅乌兹别克斯坦首次亮相世界杯，挑战南美豪强哥伦比亚。乌兹别克斯坦历经多年冲击世界杯终于圆梦，肖穆罗多夫领衔的球队渴望在世界杯赛场证明自己。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：乌兹别克斯坦 vs 哥伦比亚 30分钟后开始
 END:VALARM
 END:VEVENT
 
@@ -485,11 +498,37 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260622T000000
+DTEND;TZID=Asia/Shanghai:20260622T015000
+SUMMARY:【H组·第2轮】🇪🇸 西班牙 vs 🇸🇦 沙特阿拉伯
+LOCATION:Mercedes-Benz Stadium, Atlanta
+DESCRIPTION:🏟️ 亚特兰大·梅赛德斯-奔驰体育场\n🌟 西班牙传控风暴对阵亚洲劲旅沙特。西班牙是本届夺冠热门，罗德里、佩德里、加维等年轻才俊领衔中场；沙特上届击败阿根廷震撼全球，渴望再次书写奇迹。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：西班牙 vs 沙特阿拉伯 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260622T030000
 DTEND;TZID=Asia/Shanghai:20260622T045000
+SUMMARY:【G组·第2轮】🇪🇬 埃及 vs 🇳🇿 新西兰
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 非洲雄狮埃及对阵大洋洲冠军新西兰。埃及拥有萨拉赫这把尖刀，新西兰则依靠团队防守。两队在小组第二的争夺中是直接竞争对手。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：埃及 vs 新西兰 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260622T060000
+DTEND;TZID=Asia/Shanghai:20260622T075000
 SUMMARY:【H组·第2轮】🇺🇾 乌拉圭 vs 🇨🇻 佛得角
-LOCATION:NRG Stadium, Houston
-DESCRIPTION:🏟️ 休斯顿·NRG体育场\n🌟 南美劲旅乌拉圭迎战世界杯新军佛得角。乌拉圭阵容年轻化，巴尔韦德、努涅斯领衔；佛得角首度登上世界杯舞台，非洲岛国期待在小组赛中制造惊喜。
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:🏟️ 迈阿密·硬石体育场\n🌟 南美劲旅乌拉圭对阵世界杯新军佛得角。乌拉圭阵容年轻化，巴尔韦德、努涅斯领衔；佛得角首度登上世界杯舞台，期待在这片熟悉的土地上制造惊喜。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -498,73 +537,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T060000
-DTEND;TZID=Asia/Shanghai:20260622T075000
-SUMMARY:【G组·第2轮】🇳🇿 新西兰 vs 🇪🇬 埃及
-LOCATION:Arrowhead Stadium, Kansas City
-DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 大洋洲冠军新西兰对阵非洲雄狮埃及。新西兰时隔16年重返世界杯，拥有伍德等实力球员；萨拉赫渴望带领埃及赢得世界杯首场胜利。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：新西兰 vs 埃及 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260622T090000
 DTEND;TZID=Asia/Shanghai:20260622T105000
-SUMMARY:【I组·第2轮】🇮🇶 伊拉克 vs 🇸🇳 塞内加尔
-LOCATION:Hard Rock Stadium, Miami Gardens
-DESCRIPTION:🏟️ 迈阿密·硬石体育场\n🌟 亚洲劲旅伊拉克挑战非洲豪强塞内加尔。塞内加尔在马内带领下渴望延续非洲杯冠军的辉煌；伊拉克时隔36年重返世界杯，经历过战火洗礼的伊拉克球员意志力超乎寻常。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：伊拉克 vs 塞内加尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T120000
-DTEND;TZID=Asia/Shanghai:20260622T135000
-SUMMARY:【J组·第2轮】🇯🇴 约旦 vs 🇩🇿 阿尔及利亚
-LOCATION:Levi's Stadium, San Francisco Bay Area
-DESCRIPTION:🏟️ 旧金山湾区·李维斯体育场\n🌟 世界杯新军约旦挑战北非劲旅阿尔及利亚。约旦首度亮相世界杯，渴望在最高舞台证明自己；阿尔及利亚拥有马赫雷斯等技术型球员，是非洲技术流代表。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：约旦 vs 阿尔及利亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T030000
-DTEND;TZID=Asia/Shanghai:20260623T045000
-SUMMARY:【K组·第2轮】🇨🇴 哥伦比亚 vs 🇨🇩 刚果民主共和国
-LOCATION:Estadio Akron, Guadalajara
-DESCRIPTION:🏟️ 瓜达拉哈拉·阿克伦球场\n🌟 南美劲旅哥伦比亚对阵刚果民主共和国。哥伦比亚技术华丽，迪亚斯的边路突破是最大威胁；刚果民主共和国时隔52年重返世界杯，渴望展现非洲足球的原始力量。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：哥伦比亚 vs 刚果民主共和国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T060000
-DTEND;TZID=Asia/Shanghai:20260623T075000
-SUMMARY:【H组·第2轮】🇸🇦 沙特阿拉伯 vs 🇪🇸 西班牙
-LOCATION:Mercedes-Benz Stadium, Atlanta
-DESCRIPTION:🏟️ 亚特兰大·梅赛德斯-奔驰体育场\n🌟 西班牙传控风暴对阵亚洲劲旅沙特。西班牙是本届夺冠大热门，罗德里、佩德里、加维等年轻才俊领衔中场；沙特上届击败阿根廷震撼全球，渴望再次书写奇迹。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：沙特阿拉伯 vs 西班牙 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T090000
-DTEND;TZID=Asia/Shanghai:20260623T105000
 SUMMARY:【G组·第2轮】🇧🇪 比利时 vs 🇮🇷 伊朗
 LOCATION:Lumen Field, Seattle
 DESCRIPTION:🏟️ 西雅图·流明球场\n🌟 欧洲红魔比利时对阵波斯铁骑伊朗。比利时黄金一代的谢幕演出，德布劳内、卢卡库最后一届世界杯；伊朗连续第四次入围，塔雷米和阿兹蒙的锋线组合在亚洲堪称顶级。
@@ -576,21 +550,8 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T120000
-DTEND;TZID=Asia/Shanghai:20260623T135000
-SUMMARY:【J组·第2轮】🇦🇷 阿根廷 vs 🇦🇹 奥地利
-LOCATION:AT&T Stadium, Arlington
-DESCRIPTION:🏟️ 达拉斯·AT&T体育场\n🌟 卫冕冠军阿根廷对阵欧洲新锐奥地利。阿根廷新老交替后实力不减，劳塔罗、阿尔瓦雷斯、恩佐组成新一代核心；奥地利在朗尼克带领下踢出激情四射的足球。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：阿根廷 vs 奥地利 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T030000
-DTEND;TZID=Asia/Shanghai:20260624T045000
+DTSTART;TZID=Asia/Shanghai:20260622T120000
+DTEND;TZID=Asia/Shanghai:20260622T135000
 SUMMARY:【I组·第2轮】🇳🇴 挪威 vs 🇸🇳 塞内加尔
 LOCATION:MetLife Stadium, East Rutherford
 DESCRIPTION:🏟️ 纽约/新泽西·大都会人寿体育场\n🌟 哈兰德领衔的挪威挑战塞内加尔。哈兰德时隔28年将挪威带回世界杯，他的冲击力是任何防线都不愿面对的噩梦；塞内加尔拥有马内、库利巴利等世界级球员，双方实力接近。
@@ -602,8 +563,34 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T060000
-DTEND;TZID=Asia/Shanghai:20260624T075000
+DTSTART;TZID=Asia/Shanghai:20260623T000000
+DTEND;TZID=Asia/Shanghai:20260623T015000
+SUMMARY:【J组·第2轮】🇦🇷 阿根廷 vs 🇦🇹 奥地利
+LOCATION:Arrowhead Stadium, Kansas City
+DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 卫冕冠军阿根廷对阵欧洲新锐奥地利。阿根廷新老交替后实力不减，劳塔罗、阿尔瓦雷斯、恩佐组成新一代核心；奥地利在朗尼克带领下踢出激情四射的足球。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：阿根廷 vs 奥地利 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260623T030000
+DTEND;TZID=Asia/Shanghai:20260623T045000
+SUMMARY:【I组·第2轮】🇮🇶 伊拉克 vs 🇸🇳 塞内加尔
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:🏟️ 迈阿密·硬石体育场\n🌟 亚洲劲旅伊拉克挑战非洲豪强塞内加尔。塞内加尔在马内带领下渴望重现非洲杯冠军的辉煌；伊拉克时隔36年重返世界杯，经历过战火洗礼的伊拉克球员意志力超乎寻常。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：伊拉克 vs 塞内加尔 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260623T060000
+DTEND;TZID=Asia/Shanghai:20260623T075000
 SUMMARY:【K组·第2轮】🇵🇹 葡萄牙 vs 🇺🇿 乌兹别克斯坦
 LOCATION:NRG Stadium, Houston
 DESCRIPTION:🏟️ 休斯顿·NRG体育场\n🌟 C罗最后一届世界杯对阵世界杯新军乌兹别克斯坦。葡萄牙火力全开，莱奥、B席等球星云集；乌兹别克斯坦首次参加世界杯，每一场比赛都在创造国家足球历史。
@@ -615,15 +602,54 @@ END:VALARM
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T090000
-DTEND;TZID=Asia/Shanghai:20260624T105000
-SUMMARY:【G组·第2轮】🇪🇬 埃及 vs 🇳🇿 新西兰
-LOCATION:SoFi Stadium, Los Angeles
-DESCRIPTION:🏟️ 洛杉矶·SoFi体育场\n🌟 非洲雄狮埃及对阵大洋洲冠军新西兰。埃及拥有萨拉赫这把尖刀，新西兰则依靠团队防守。两队在小组第二的争夺中是直接竞争对手。
+DTSTART;TZID=Asia/Shanghai:20260623T090000
+DTEND;TZID=Asia/Shanghai:20260623T105000
+SUMMARY:【J组·第2轮】🇯🇴 约旦 vs 🇩🇿 阿尔及利亚
+LOCATION:Levi's Stadium, San Francisco Bay Area
+DESCRIPTION:🏟️ 旧金山湾区·李维斯体育场\n🌟 世界杯新军约旦挑战北非劲旅阿尔及利亚。约旦首度亮相世界杯，渴望在最高舞台证明自己；阿尔及利亚拥有马赫雷斯等技术型球员，是非洲技术流代表。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：埃及 vs 新西兰 30分钟后开始
+DESCRIPTION:⚽ 世界杯提醒：约旦 vs 阿尔及利亚 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260624T030000
+DTEND;TZID=Asia/Shanghai:20260624T045000
+SUMMARY:【K组·第2轮】🇨🇴 哥伦比亚 vs 🇨🇩 刚果民主共和国
+LOCATION:Estadio Akron, Guadalajara
+DESCRIPTION:🏟️ 瓜达拉哈拉·阿克伦球场\n🌟 南美劲旅哥伦比亚对阵刚果民主共和国。哥伦比亚技术华丽，迪亚斯的边路突破是最大威胁；刚果民主共和国时隔52年重返世界杯，渴望展现非洲足球的原始力量。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：哥伦比亚 vs 刚果民主共和国 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260624T060000
+DTEND;TZID=Asia/Shanghai:20260624T075000
+SUMMARY:【L组·第2轮】🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇬🇭 加纳
+LOCATION:BMO Field, Toronto
+DESCRIPTION:🏟️ 多伦多·BMO球场\n🌟 三狮军团英格兰对阵非洲黑星加纳。英格兰拥有凯恩、贝林厄姆、萨卡等世界级球星；加纳拥有托马斯、库杜斯等英超球星，中场实力不容小觑。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：英格兰 vs 加纳 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260624T090000
+DTEND;TZID=Asia/Shanghai:20260624T105000
+SUMMARY:【L组·第2轮】🇵🇦 巴拿马 vs 🇭🇷 克罗地亚
+LOCATION:Hard Rock Stadium, Miami Gardens
+DESCRIPTION:🏟️ 迈阿密·硬石体育场\n🌟 中北美劲旅巴拿马对阵格子军团克罗地亚。莫德里奇最后一届世界杯，克罗地亚老将渴望再次书写传奇；巴拿马第二次参加世界杯，渴望在强敌身上拿到宝贵的积分。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：巴拿马 vs 克罗地亚 30分钟后开始
 END:VALARM
 END:VEVENT
 
@@ -748,8 +774,8 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260626T070000
 DTEND;TZID=Asia/Shanghai:20260626T085000
 SUMMARY:【F组·第3轮】🇹🇳 突尼斯 vs 🇳🇱 荷兰
-LOCATION:Arrowhead Stadium, Kansas City
-DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 突尼斯挑战无冕之王荷兰。荷兰队的进攻火力强大，但突尼斯的防守韧性不容小觑。F组出线形势扑朔迷离，这场比赛将直接影响谁能够晋级。
+LOCATION:Estadio BBVA, Monterrey
+DESCRIPTION:🏟️ 蒙特雷·BBVA体育场\n🌟 突尼斯挑战无冕之王荷兰。荷兰队的进攻火力强大，但突尼斯的防守韧性不容小觑。F组出线形势扑朔迷离，这场比赛将直接影响谁能够晋级。
 BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
@@ -890,32 +916,6 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Shanghai:20260627T110000
 DTEND;TZID=Asia/Shanghai:20260627T125000
-SUMMARY:【L组·第3轮】🇭🇷 克罗地亚 vs 🇬🇭 加纳
-LOCATION:Lincoln Financial Field, Philadelphia
-DESCRIPTION:🏟️ 费城·林肯金融球场\n🌟 克罗地亚对阵加纳，两支球队均以不屈不挠著称。莫德里奇最后一届世界杯，克罗地亚老将渴望再次书写传奇；加纳拥有托马斯、库杜斯等英超球星。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：克罗地亚 vs 加纳 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T110000
-DTEND;TZID=Asia/Shanghai:20260627T125000
-SUMMARY:【L组·第3轮】🇵🇦 巴拿马 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-LOCATION:MetLife Stadium, East Rutherford
-DESCRIPTION:🏟️ 纽约/新泽西·大都会人寿体育场\n🌟 巴拿马挑战三狮军团英格兰。英格兰拥有凯恩、贝林厄姆、萨卡等世界级球星，是本届夺冠热门之一。2018年英格兰曾6-1大胜巴拿马，巴拿马渴望改写历史。
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴拿马 vs 英格兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T110000
-DTEND;TZID=Asia/Shanghai:20260627T125000
 SUMMARY:【J组·第3轮】🇩🇿 阿尔及利亚 vs 🇦🇹 奥地利
 LOCATION:Arrowhead Stadium, Kansas City
 DESCRIPTION:🏟️ 堪萨斯城·箭头体育场\n🌟 阿尔及利亚对阵奥地利，欧洲和非洲劲旅的碰撞。阿尔及利亚拥有马赫雷斯等技术型球员，奥地利则拥有朗尼克的高位逼抢体系。这场比赛可能决定J组最终排名。
@@ -936,6 +936,32 @@ BEGIN:VALARM
 TRIGGER:-PT30M
 ACTION:DISPLAY
 DESCRIPTION:⚽ 世界杯提醒：约旦 vs 阿根廷 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260627T110000
+DTEND;TZID=Asia/Shanghai:20260627T125000
+SUMMARY:【L组·第3轮】🇭🇷 克罗地亚 vs 🇬🇭 加纳
+LOCATION:Lincoln Financial Field, Philadelphia
+DESCRIPTION:🏟️ 费城·林肯金融球场\n🌟 克罗地亚对阵加纳，两支球队均以不屈不挠著称。莫德里奇最后一届世界杯，克罗地亚老将渴望再次书写传奇；加纳拥有托马斯、库杜斯等英超球星。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：克罗地亚 vs 加纳 30分钟后开始
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Shanghai:20260627T110000
+DTEND;TZID=Asia/Shanghai:20260627T125000
+SUMMARY:【L组·第3轮】🇵🇦 巴拿马 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
+LOCATION:MetLife Stadium, East Rutherford
+DESCRIPTION:🏟️ 纽约/新泽西·大都会人寿体育场\n🌟 巴拿马挑战三狮军团英格兰。英格兰拥有凯恩、贝林厄姆、萨卡等世界级球星，是本届夺冠热门之一。2018年英格兰曾6-1大胜巴拿马，巴拿马渴望改写历史。
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:⚽ 世界杯提醒：巴拿马 vs 英格兰 30分钟后开始
 END:VALARM
 END:VEVENT
 
