@@ -1,955 +1,731 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//FIFA World Cup 2026 Group Stage//CN
+X-WR-CALNAME:2026 FIFA世界杯 小组赛
+X-WR-CALDESC:2026年美加墨世界杯小组赛完整赛程（FIFA官方 北京时间）
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:2026 FIFA 世界杯·小组赛
-X-WR-TIMEZONE:Asia/Shanghai
-BEGIN:VTIMEZONE
-TZID:Asia/Shanghai
-X-LIC-LOCATION:Asia/Shanghai
-BEGIN:STANDARD
-TZOFFSETFROM:+0800
-TZOFFSETTO:+0800
-TZNAME:CST
-DTSTART:19700101T000000
-END:STANDARD
-END:VTIMEZONE
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260612T030000
-DTEND;TZID=Asia/Shanghai:20260612T045000
-SUMMARY:【A组·第1轮】🇲🇽 墨西哥 vs 🇿🇦 南非
-LOCATION:墨西哥城，阿兹特克球场
-DESCRIPTION:🏟️ 揭幕战！墨西哥城阿兹特克球场\n🌟 看点：东道主墨西哥迎战南非，重演2010年小组赛经典。阿兹特克球场第三次承办世界杯揭幕战，墨西哥球迷将制造山呼海啸般的主场氛围。\n📌 官方赛程编号：1
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：墨西哥 vs 南非 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260612T100000
-DTEND;TZID=Asia/Shanghai:20260612T115000
-SUMMARY:【A组·第1轮】🇰🇷 韩国 vs 🇨🇿 捷克
-LOCATION:瓜达拉哈拉，阿克伦球场
-DESCRIPTION:🏟️ 瓜达拉哈拉阿克伦球场\n🌟 看点：亚洲劲旅韩国对阵东欧铁骑捷克。孙兴慜领衔的韩国攻击线挑战捷克高大防线，捷克自2006年后重返世界杯，希克能否首战破门？\n📌 官方赛程编号：2
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：韩国 vs 捷克 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260613T030000
-DTEND;TZID=Asia/Shanghai:20260613T045000
-SUMMARY:【B组·第1轮】🇨🇦 加拿大 vs 🇧🇦 波黑
-LOCATION:多伦多，BMO球场
-DESCRIPTION:🏟️ 多伦多BMO球场\n🌟 看点：东道主加拿大时隔36年重返世界杯，阿方索·戴维斯领衔“枫叶军团”主场迎战波黑。哲科率领的波黑黄金一代最后一舞，青春风暴 vs 老将经验。\n📌 官方赛程编号：3
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：加拿大 vs 波黑 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260613T090000
-DTEND;TZID=Asia/Shanghai:20260613T105000
-SUMMARY:【D组·第1轮】🇺🇸 美国 vs 🇵🇾 巴拉圭
-LOCATION:洛杉矶，SoFi体育场
-DESCRIPTION:🏟️ 洛杉矶SoFi体育场\n🌟 看点：东道主美国首秀迎战南美劲旅巴拉圭。普利西奇、雷纳领衔的美国青春风暴对阵巴拉圭铁血防守，阿尔米隆的速度将考验美国后防。\n📌 官方赛程编号：4
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：美国 vs 巴拉圭 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260613T120000
-DTEND;TZID=Asia/Shanghai:20260613T135000
-SUMMARY:【D组·第1轮】🇦🇺 澳大利亚 vs 🇹🇷 土耳其
-LOCATION:温哥华，BC Place体育场
-DESCRIPTION:🏟️ 温哥华BC Place体育场\n🌟 看点：亚足联劲旅澳大利亚对阵欧亚交汇的土耳其。两队球风硬朗，土耳其时隔24年重返世界杯，恰尔汗奥卢领衔的“星月军团”渴望重现2002年季军辉煌。\n📌 官方赛程编号：5
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：澳大利亚 vs 土耳其 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260614T030000
-DTEND;TZID=Asia/Shanghai:20260614T045000
-SUMMARY:【B组·第1轮】🇶🇦 卡塔尔 vs 🇨🇭 瑞士
-LOCATION:旧金山湾区，李维斯体育场
-DESCRIPTION:🏟️ 旧金山湾区李维斯体育场\n🌟 看点：亚洲冠军卡塔尔挑战欧洲劲旅瑞士。阿菲夫、阿里领衔的卡塔尔渴望证明2022年经验已让他们脱胎换骨；扎卡坐镇的瑞士防守稳固，自2014年起连续四届进入淘汰赛。\n📌 官方赛程编号：6
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：卡塔尔 vs 瑞士 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260614T060000
-DTEND;TZID=Asia/Shanghai:20260614T075000
-SUMMARY:【C组·第1轮】🇧🇷 巴西 vs 🇲🇦 摩洛哥
-LOCATION:纽约/新泽西，大都会人寿体育场
-DESCRIPTION:🏟️ 纽约大都会人寿体育场\n🌟 看点：五星巴西对决上届世界杯四强摩洛哥！维尼修斯、罗德里戈领衔的巴西攻击线遭遇齐耶赫、阿什拉夫率领的北非雄狮。巴西进攻艺术 vs 摩洛哥钢铁防线，小组头名之争预演。\n📌 官方赛程编号：7
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴西 vs 摩洛哥 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260614T090000
-DTEND;TZID=Asia/Shanghai:20260614T105000
-SUMMARY:【C组·第1轮】🇭🇹 海地 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰
-LOCATION:波士顿，吉列体育场
-DESCRIPTION:🏟️ 波士顿吉列体育场\n🌟 看点：加勒比黑马海地首次亮相世界杯！苏格兰时隔24年重返世界杯，罗伯逊、麦克托米奈领衔。苏格兰球迷的歌声将响彻波士顿，海地门将能否上演神奇扑救？\n📌 官方赛程编号：8
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：海地 vs 苏格兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260615T010000
-DTEND;TZID=Asia/Shanghai:20260615T025000
-SUMMARY:【E组·第1轮】🇩🇪 德国 vs 🇨🇼 库拉索
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：四届冠军德国队对阵世界杯新军库拉索。穆西亚拉、维尔茨领衔的德国新生代首秀，库拉索（人口约16万）成为世界杯史上最小参赛国，每一步都在创造历史。\n📌 官方赛程编号：9
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：德国 vs 库拉索 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260615T040000
-DTEND;TZID=Asia/Shanghai:20260615T055000
-SUMMARY:【F组·第1轮】🇳🇱 荷兰 vs 🇯🇵 日本
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：“无冕之王”荷兰迎战“蓝武士”日本。日本队上届连克德国、西班牙，拥有久保建英、远藤航等旅欧强将；荷兰队范迪克、德佩领衔，技术流对决火药味十足。\n📌 官方赛程编号：10
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：荷兰 vs 日本 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260615T070000
-DTEND;TZID=Asia/Shanghai:20260615T085000
-SUMMARY:【E组·第1轮】🇨🇮 科特迪瓦 vs 🇪🇨 厄瓜多尔
-LOCATION:费城，林肯金融球场
-DESCRIPTION:🏟️ 费城林肯金融球场\n🌟 看点：非洲大象科特迪瓦对阵高原之魔厄瓜多尔。科特迪瓦自2014年后重返世界杯，凯西、佩佩坐镇；厄瓜多尔预选赛曾击败巴西和阿根廷，凯塞多领衔的青春风暴值得期待。\n📌 官方赛程编号：11
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：科特迪瓦 vs 厄瓜多尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260615T100000
-DTEND;TZID=Asia/Shanghai:20260615T115000
-SUMMARY:【F组·第1轮】🇸🇪 瑞典 vs 🇹🇳 突尼斯
-LOCATION:蒙特雷，BBVA体育场
-DESCRIPTION:🏟️ 蒙特雷BBVA体育场\n🌟 看点：北欧海盗瑞典对阵迦太基之鹰突尼斯。伊萨克、库卢塞夫斯基领衔瑞典攻击线，突尼斯以稳固防守著称，这是F组出线名额的直接对话。\n📌 官方赛程编号：12
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：瑞典 vs 突尼斯 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T000000
-DTEND;TZID=Asia/Shanghai:20260616T015000
-SUMMARY:【H组·第1轮】🇪🇸 西班牙 vs 🇨🇻 佛得角
-LOCATION:亚特兰大，梅赛德斯-奔驰体育场
-DESCRIPTION:🏟️ 亚特兰大梅赛德斯-奔驰体育场\n🌟 看点：西班牙传控风暴对阵世界杯新军佛得角！佛得角首次登上世界杯舞台，面对2010年冠军西班牙，年轻球员将与罗德里、佩德里等世界顶级球星同场竞技，这本身就是胜利。\n📌 官方赛程编号：13
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：西班牙 vs 佛得角 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T030000
-DTEND;TZID=Asia/Shanghai:20260616T045000
-SUMMARY:【G组·第1轮】🇧🇪 比利时 vs 🇪🇬 埃及
-LOCATION:西雅图，流明球场
-DESCRIPTION:🏟️ 西雅图流明球场\n🌟 看点：德布劳内 vs 萨拉赫！比利时黄金一代最后一届世界杯，卢卡库、德布劳内谢幕演出；萨拉赫渴望带领埃及赢得世界杯首场胜利。两位英超传奇的直接对话。\n📌 官方赛程编号：14
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：比利时 vs 埃及 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T060000
-DTEND;TZID=Asia/Shanghai:20260616T075000
-SUMMARY:【H组·第1轮】🇸🇦 沙特阿拉伯 vs 🇺🇾 乌拉圭
-LOCATION:迈阿密，硬石体育场
-DESCRIPTION:🏟️ 迈阿密硬石体育场\n🌟 看点：亚洲劲旅沙特挑战南美豪强乌拉圭。沙特上届击败阿根廷震惊世界，渴望再演黑马奇迹；乌拉圭由巴尔韦德、努涅斯、阿劳霍领衔，“新乌拉圭”能否延续苏亚雷斯时代的荣耀？\n📌 官方赛程编号：15
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：沙特阿拉伯 vs 乌拉圭 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T090000
-DTEND;TZID=Asia/Shanghai:20260616T105000
-SUMMARY:【G组·第1轮】🇮🇷 伊朗 vs 🇳🇿 新西兰
-LOCATION:洛杉矶，SoFi体育场
-DESCRIPTION:🏟️ 洛杉矶SoFi体育场\n🌟 看点：波斯铁骑伊朗对阵大洋洲冠军新西兰。伊朗连续第四次入围世界杯，塔雷米、阿兹蒙领衔锋线；新西兰时隔16年重返世界杯，伍德的高空优势将是伊朗防线的考验。\n📌 官方赛程编号：16
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：伊朗 vs 新西兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260616T120000
-DTEND;TZID=Asia/Shanghai:20260616T135000
-SUMMARY:【J组·第1轮】🇦🇹 奥地利 vs 🇯🇴 约旦
-LOCATION:旧金山湾区，李维斯体育场
-DESCRIPTION:🏟️ 旧金山湾区李维斯体育场\n🌟 看点：欧洲新锐奥地利对阵世界杯新军约旦。奥地利在朗尼克带领下踢出高位逼抢，萨比策、莱默尔坐镇中场；约旦队史首登世界杯，能否像亚洲兄弟沙特那样爆冷？\n📌 官方赛程编号：17
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：奥地利 vs 约旦 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260617T030000
-DTEND;TZID=Asia/Shanghai:20260617T045000
-SUMMARY:【I组·第1轮】🇫🇷 法国 vs 🇸🇳 塞内加尔
-LOCATION:纽约/新泽西，大都会人寿体育场
-DESCRIPTION:🏟️ 纽约大都会人寿体育场\n🌟 看点：恩怨重演！2002年揭幕战塞内加尔1-0爆冷击败卫冕冠军法国，时隔24年两队再相遇。姆巴佩 vs 马内，新老两代非洲足球先生的对决。法国渴望复仇，塞内加尔期待复制奇迹。\n📌 官方赛程编号：18
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：法国 vs 塞内加尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260617T060000
-DTEND;TZID=Asia/Shanghai:20260617T075000
-SUMMARY:【I组·第1轮】🇮🇶 伊拉克 vs 🇳🇴 挪威
-LOCATION:波士顿，吉列体育场
-DESCRIPTION:🏟️ 波士顿吉列体育场\n🌟 看点：哈兰德的世界杯首秀！伊拉克时隔36年重返世界杯，防守顽强；挪威拥有哈兰德、厄德高，时隔28年重返世界杯。哈兰德能否首战破门？伊拉克铁桶阵能撑多久？\n📌 官方赛程编号：19
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：伊拉克 vs 挪威 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260617T090000
-DTEND;TZID=Asia/Shanghai:20260617T105000
-SUMMARY:【J组·第1轮】🇦🇷 阿根廷 vs 🇩🇿 阿尔及利亚
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：卫冕冠军阿根廷首秀！梅西、迪马利亚退出后，劳塔罗、恩佐、阿尔瓦雷斯挑起大梁；阿尔及利亚拥有马赫雷斯、本纳塞尔等技术型球员，非洲技术流能否给阿根廷制造麻烦？\n📌 官方赛程编号：20
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：阿根廷 vs 阿尔及利亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T010000
-DTEND;TZID=Asia/Shanghai:20260618T025000
-SUMMARY:【K组·第1轮】🇵🇹 葡萄牙 vs 🇨🇩 刚果民主共和国
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：C罗最后一届世界杯！葡萄牙黄金一代全力冲冠，B席、B费、莱奥等球星护航；刚果民主共和国时隔52年重返世界杯，非洲雄狮期待爆冷。C罗能否打破世界杯进球纪录？\n📌 官方赛程编号：21
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：葡萄牙 vs 刚果民主共和国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T040000
-DTEND;TZID=Asia/Shanghai:20260618T055000
-SUMMARY:【L组·第1轮】🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇭🇷 克罗地亚
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：恩怨重演！2018年世界杯半决赛克罗地亚加时绝杀英格兰，2020欧洲杯英格兰复仇，此番第三次大赛相遇。凯恩 vs 莫德里奇，新老两代巨星直接对话。\n📌 官方赛程编号：22
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：英格兰 vs 克罗地亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T070000
-DTEND;TZID=Asia/Shanghai:20260618T085000
-SUMMARY:【L组·第1轮】🇬🇭 加纳 vs 🇵🇦 巴拿马
-LOCATION:多伦多，BMO球场
-DESCRIPTION:🏟️ 多伦多BMO球场\n🌟 看点：非洲黑星加纳对阵中北美劲旅巴拿马。加纳拥有托马斯、库杜斯等英超球星，巴拿马第二次参加世界杯，渴望取得队史首胜。两支中游劲旅的较量将影响L组出线格局。\n📌 官方赛程编号：23
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：加纳 vs 巴拿马 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260618T100000
-DTEND;TZID=Asia/Shanghai:20260618T115000
-SUMMARY:【K组·第1轮】🇺🇿 乌兹别克斯坦 vs 🇨🇴 哥伦比亚
-LOCATION:墨西哥城，阿兹特克球场
-DESCRIPTION:🏟️ 墨西哥城阿兹特克球场\n🌟 看点：中亚劲旅乌兹别克斯坦首次亮相世界杯，挑战南美豪强哥伦比亚。肖穆罗多夫领衔的乌兹别克渴望证明自己；哥伦比亚拥有迪亚斯、J罗等球星，南美技术流能否轻松过关？\n📌 官方赛程编号：24
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：乌兹别克斯坦 vs 哥伦比亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260619T000000
-DTEND;TZID=Asia/Shanghai:20260619T015000
-SUMMARY:【A组·第2轮】🇨🇿 捷克 vs 🇿🇦 南非
-LOCATION:亚特兰大，梅赛德斯-奔驰体育场
-DESCRIPTION:🏟️ 亚特兰大梅赛德斯-奔驰体育场\n🌟 看点：关键卡位战。捷克和南非首轮均遭遇强敌，此役是双方争夺宝贵积分的关键战。希克能否找回射门靴？南非的快速反击能否撕破捷克防线？\n📌 官方赛程编号：25
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：捷克 vs 南非 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260619T030000
-DTEND;TZID=Asia/Shanghai:20260619T045000
-SUMMARY:【B组·第2轮】🇨🇭 瑞士 vs 🇧🇦 波黑
-LOCATION:洛杉矶，SoFi体育场
-DESCRIPTION:🏟️ 洛杉矶SoFi体育场\n🌟 看点：欧洲内战。瑞士防守稳固，扎卡领衔中场；波黑拥有皮亚尼奇、哲科等经验丰富的老将，这是一场典型的欧洲战术博弈。\n📌 官方赛程编号：26
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：瑞士 vs 波黑 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260619T060000
-DTEND;TZID=Asia/Shanghai:20260619T075000
-SUMMARY:【B组·第2轮】🇨🇦 加拿大 vs 🇶🇦 卡塔尔
-LOCATION:温哥华，BC Place体育场
-DESCRIPTION:🏟️ 温哥华BC Place体育场\n🌟 看点：东道主加拿大迎战亚洲冠军卡塔尔。戴维斯与阿菲夫的速度对决！加拿大主场作战气势如虹，卡塔尔渴望证明2022年的经验让他们脱胎换骨。出线关键战！\n📌 官方赛程编号：27
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：加拿大 vs 卡塔尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260619T090000
-DTEND;TZID=Asia/Shanghai:20260619T105000
-SUMMARY:【A组·第2轮】🇲🇽 墨西哥 vs 🇰🇷 韩国
-LOCATION:瓜达拉哈拉，阿克伦球场
-DESCRIPTION:🏟️ 瓜达拉哈拉阿克伦球场\n🌟 看点：中北美霸主墨西哥对阵太极虎韩国。墨西哥连续八届杀入淘汰赛，稳定性惊人；孙兴慜的突击能力是韩国最大威胁。墨西哥的拉丁脚下技术对上韩国的速度和体能，谁更胜一筹？\n📌 官方赛程编号：28
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：墨西哥 vs 韩国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260620T030000
-DTEND;TZID=Asia/Shanghai:20260620T045000
-SUMMARY:【D组·第2轮】🇺🇸 美国 vs 🇦🇺 澳大利亚
-LOCATION:西雅图，流明球场
-DESCRIPTION:🏟️ 西雅图流明球场\n🌟 看点：东道主美国对阵亚足联劲旅澳大利亚。普利西奇、雷纳领衔的美国青春风暴，对阵连续第六次跻身世界杯的澳大利亚。美国队主场气势如虹，澳大利亚经验丰富，谁能拿下关键三分？\n📌 官方赛程编号：29
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：美国 vs 澳大利亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260620T060000
-DTEND;TZID=Asia/Shanghai:20260620T075000
-SUMMARY:【C组·第2轮】🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰 vs 🇲🇦 摩洛哥
-LOCATION:波士顿，吉列体育场
-DESCRIPTION:🏟️ 波士顿吉列体育场\n🌟 看点：苏格兰时隔24年重返世界杯，对阵上届四强摩洛哥。苏格兰球迷的歌声将响彻波士顿，他们是世界杯最热情的一批球迷；摩洛哥齐耶赫、阿什拉夫领衔，技术占优。\n📌 官方赛程编号：30
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：苏格兰 vs 摩洛哥 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260620T090000
-DTEND;TZID=Asia/Shanghai:20260620T105000
-SUMMARY:【C组·第2轮】🇧🇷 巴西 vs 🇭🇹 海地
-LOCATION:费城，林肯金融球场
-DESCRIPTION:🏟️ 费城林肯金融球场\n🌟 看点：五星巴西对阵世界杯新军海地。巴西进攻线华丽，维尼修斯、罗德里戈领衔；海地首次登上世界杯舞台，每一粒进球、每一分都将是国家史上的里程碑。\n📌 官方赛程编号：31
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴西 vs 海地 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260620T120000
-DTEND;TZID=Asia/Shanghai:20260620T135000
-SUMMARY:【D组·第2轮】🇹🇷 土耳其 vs 🇵🇾 巴拉圭
-LOCATION:旧金山湾区，李维斯体育场
-DESCRIPTION:🏟️ 旧金山湾区李维斯体育场\n🌟 看点：东欧劲旅土耳其时隔24年重返世界杯，对阵南美硬汉巴拉圭。恰尔汗奥卢领衔的土耳其渴望再现2002年辉煌；阿尔米隆的速度是巴拉圭反击利器。谁能在D组混战中抢得先机？\n📌 官方赛程编号：32
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：土耳其 vs 巴拉圭 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260621T010000
-DTEND;TZID=Asia/Shanghai:20260621T025000
-SUMMARY:【F组·第2轮】🇳🇱 荷兰 vs 🇸🇪 瑞典
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：欧洲经典对决！荷兰进攻美学 vs 瑞典实用主义。范迪克领衔的防线能否限制伊萨克？德佩与库卢塞夫斯基的边路对决同样精彩。\n📌 官方赛程编号：33
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：荷兰 vs 瑞典 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260621T040000
-DTEND;TZID=Asia/Shanghai:20260621T055000
-SUMMARY:【E组·第2轮】🇩🇪 德国 vs 🇨🇮 科特迪瓦
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：德国战车挑战非洲大象。德国队避免重蹈上届小组赛覆辙的关键战；科特迪瓦拥有凯西、佩佩等硬汉，反击犀利。穆西亚拉能否撕开非洲大象的防线？\n📌 官方赛程编号：34
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：德国 vs 科特迪瓦 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260621T080000
-DTEND;TZID=Asia/Shanghai:20260621T095000
-SUMMARY:【E组·第2轮】🇪🇨 厄瓜多尔 vs 🇨🇼 库拉索
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：南美劲旅厄瓜多尔对阵世界杯新军库拉索。厄瓜多尔拥有凯塞多等英超明星，库拉索作为新军渴望积累宝贵经验。厄瓜多尔若想小组出线，此役必须全取三分。\n📌 官方赛程编号：35
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：厄瓜多尔 vs 库拉索 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260621T120000
-DTEND;TZID=Asia/Shanghai:20260621T135000
-SUMMARY:【F组·第2轮】🇹🇳 突尼斯 vs 🇯🇵 日本
-LOCATION:蒙特雷，BBVA体育场
-DESCRIPTION:🏟️ 蒙特雷BBVA体育场\n🌟 看点：亚洲 vs 非洲技术流。两队都擅长传控和整体配合，久保建英 vs 斯希里，谁能掌控中场？这是F组出线格局的“天平之战”。\n📌 官方赛程编号：36
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：突尼斯 vs 日本 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T000000
-DTEND;TZID=Asia/Shanghai:20260622T015000
-SUMMARY:【H组·第2轮】🇪🇸 西班牙 vs 🇸🇦 沙特阿拉伯
-LOCATION:亚特兰大，梅赛德斯-奔驰体育场
-DESCRIPTION:🏟️ 亚特兰大梅赛德斯-奔驰体育场\n🌟 看点：西班牙传控风暴对阵亚洲劲旅沙特。西班牙是夺冠大热门，罗德里、佩德里领衔中场；沙特上届击败阿根廷震撼全球，达瓦萨里能否再次上演神奇突破？\n📌 官方赛程编号：37
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：西班牙 vs 沙特阿拉伯 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T030000
-DTEND;TZID=Asia/Shanghai:20260622T045000
-SUMMARY:【G组·第2轮】🇪🇬 埃及 vs 🇳🇿 新西兰
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：萨拉赫 vs 伍德。非洲雄狮埃及对阵大洋洲冠军新西兰。萨拉赫渴望带领埃及赢得世界杯首场胜利，新西兰依靠团队防守和伍德的高空优势。\n📌 官方赛程编号：38
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：埃及 vs 新西兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T060000
-DTEND;TZID=Asia/Shanghai:20260622T075000
-SUMMARY:【H组·第2轮】🇺🇾 乌拉圭 vs 🇨🇻 佛得角
-LOCATION:迈阿密，硬石体育场
-DESCRIPTION:🏟️ 迈阿密硬石体育场\n🌟 看点：南美劲旅乌拉圭对阵世界杯新军佛得角。乌拉圭阵容年轻化，巴尔韦德、努涅斯领衔；佛得角首度登上世界杯舞台，期待在这片北美土地上制造惊喜。\n📌 官方赛程编号：39
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：乌拉圭 vs 佛得角 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T090000
-DTEND;TZID=Asia/Shanghai:20260622T105000
-SUMMARY:【G组·第2轮】🇧🇪 比利时 vs 🇮🇷 伊朗
-LOCATION:西雅图，流明球场
-DESCRIPTION:🏟️ 西雅图流明球场\n🌟 看点：黄金一代 vs 波斯铁骑。德布劳内、卢卡库最后一届世界杯，伊朗塔雷米和阿兹蒙的锋线组合在亚洲堪称顶级。比利时的创造力 vs 伊朗的铁桶阵。\n📌 官方赛程编号：40
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：比利时 vs 伊朗 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260622T120000
-DTEND;TZID=Asia/Shanghai:20260622T135000
-SUMMARY:【I组·第2轮】🇳🇴 挪威 vs 🇸🇳 塞内加尔
-LOCATION:纽约/新泽西，大都会人寿体育场
-DESCRIPTION:🏟️ 纽约大都会人寿体育场\n🌟 看点：哈兰德 vs 马内！哈兰德和厄德高领衔的挪威挑战塞内加尔。马内、库利巴利坐镇的非洲劲旅防守强悍，哈兰德能否攻破塞内加尔钢铁防线？\n📌 官方赛程编号：41
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：挪威 vs 塞内加尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T010000
-DTEND;TZID=Asia/Shanghai:20260623T025000
-SUMMARY:【J组·第2轮】🇦🇷 阿根廷 vs 🇦🇹 奥地利
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：卫冕冠军阿根廷对阵欧洲新锐奥地利。阿根廷新老交替后实力不减，劳塔罗、恩佐组成新一代核心；奥地利在朗尼克带领下踢出高位逼抢，能否给阿根廷制造麻烦？\n📌 官方赛程编号：42
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：阿根廷 vs 奥地利 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T050000
-DTEND;TZID=Asia/Shanghai:20260623T065000
-SUMMARY:【I组·第2轮】🇫🇷 法国 vs 🇮🇶 伊拉克
-LOCATION:波士顿，吉列体育场
-DESCRIPTION:🏟️ 波士顿吉列体育场\n🌟 看点：卫冕冠军法国对阵伊拉克。姆巴佩领衔的法国攻击线火力全开，伊拉克以顽强防守著称。伊拉克能否抵挡住法国队的猛攻？法国需全取三分确保出线优势。\n📌 官方赛程编号：43
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：法国 vs 伊拉克 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260623T080000
-DTEND;TZID=Asia/Shanghai:20260623T095000
-SUMMARY:【J组·第2轮】🇯🇴 约旦 vs 🇩🇿 阿尔及利亚
-LOCATION:旧金山湾区，李维斯体育场
-DESCRIPTION:🏟️ 旧金山湾区李维斯体育场\n🌟 看点：新军 vs 非洲技术流。约旦首度亮相世界杯，渴望证明自己；阿尔及利亚拥有马赫雷斯、本纳塞尔等技术型球员，是非洲技术流的代表。约旦能抵挡住北非劲旅的进攻吗？\n📌 官方赛程编号：44
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：约旦 vs 阿尔及利亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T010000
-DTEND;TZID=Asia/Shanghai:20260624T025000
-SUMMARY:【K组·第2轮】🇵🇹 葡萄牙 vs 🇺🇿 乌兹别克斯坦
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：C罗 vs 中亚新军。C罗最后一届世界杯，葡萄牙火力全开；乌兹别克斯坦首次参赛，每一场比赛都在创造历史。C罗能否在这场比赛中打破世界杯进球纪录？\n📌 官方赛程编号：45
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：葡萄牙 vs 乌兹别克斯坦 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T040000
-DTEND;TZID=Asia/Shanghai:20260624T055000
-SUMMARY:【L组·第2轮】🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 🇬🇭 加纳
-LOCATION:多伦多，BMO球场
-DESCRIPTION:🏟️ 多伦多BMO球场\n🌟 看点：三狮军团 vs 黑星。英格兰拥有凯恩、贝林厄姆、萨卡等世界级球星；加纳拥有托马斯、库杜斯等英超悍将，这场英超内战看点十足。凯恩能否继续刷新进球纪录？\n📌 官方赛程编号：46
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：英格兰 vs 加纳 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T070000
-DTEND;TZID=Asia/Shanghai:20260624T085000
-SUMMARY:【L组·第2轮】🇵🇦 巴拿马 vs 🇭🇷 克罗地亚
-LOCATION:迈阿密，硬石体育场
-DESCRIPTION:🏟️ 迈阿密硬石体育场\n🌟 看点：新军 vs 格子军团。莫德里奇最后一届世界杯，克罗地亚老将渴望再次书写传奇；巴拿马第二次参加世界杯，渴望在强敌身上拿到宝贵的积分。\n📌 官方赛程编号：47
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴拿马 vs 克罗地亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260624T100000
-DTEND;TZID=Asia/Shanghai:20260624T115000
-SUMMARY:【K组·第2轮】🇨🇴 哥伦比亚 vs 🇨🇩 刚果民主共和国
-LOCATION:瓜达拉哈拉，阿克伦球场
-DESCRIPTION:🏟️ 瓜达拉哈拉阿克伦球场\n🌟 看点：南美技术流 vs 非洲力量。迪亚斯的边路突破是哥伦比亚最大威胁；刚果民主共和国时隔52年重返世界杯，渴望展现非洲足球的原始力量。\n📌 官方赛程编号：48
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：哥伦比亚 vs 刚果民主共和国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T010000
-DTEND;TZID=Asia/Shanghai:20260625T025000
-SUMMARY:【A组·第3轮】🇨🇿 捷克 vs 🇲🇽 墨西哥
-LOCATION:墨西哥城，阿兹特克球场
-DESCRIPTION:🏟️ 墨西哥城阿兹特克球场\n🌟 看点：头名之争。墨西哥在阿兹特克球场拥有魔鬼主场优势，捷克拥有希克这样的高效射手。这场比赛很可能直接决定A组头名归属，墨西哥球迷将制造山呼海啸般的声浪。\n📌 官方赛程编号：49
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：捷克 vs 墨西哥 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T010000
-DTEND;TZID=Asia/Shanghai:20260625T025000
-SUMMARY:【A组·第3轮】🇿🇦 南非 vs 🇰🇷 韩国
-LOCATION:蒙特雷，BBVA体育场
-DESCRIPTION:🏟️ 蒙特雷BBVA体育场\n🌟 看点：速度之战。南非对阵韩国，两支球队都以快速反击著称。孙兴慜能否在关键时刻力挽狂澜？这场比赛可能成为“赢球即出线”的生死战。\n📌 官方赛程编号：50
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：南非 vs 韩国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T040000
-DTEND;TZID=Asia/Shanghai:20260625T055000
-SUMMARY:【B组·第3轮】🇨🇭 瑞士 vs 🇨🇦 加拿大
-LOCATION:温哥华，BC Place体育场
-DESCRIPTION:🏟️ 温哥华BC Place体育场\n🌟 看点：出线生死战！瑞士的防守纪律性 vs 加拿大的青春风暴。戴维斯能否在主场球迷面前带领加拿大创造历史？此役极可能决定谁以小组头名晋级。\n📌 官方赛程编号：51
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：瑞士 vs 加拿大 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T040000
-DTEND;TZID=Asia/Shanghai:20260625T055000
-SUMMARY:【B组·第3轮】🇧🇦 波黑 vs 🇶🇦 卡塔尔
-LOCATION:西雅图，流明球场
-DESCRIPTION:🏟️ 西雅图流明球场\n🌟 看点：荣誉之战。波黑和卡塔尔都可能为小组第三的晋级名额拼到最后。哲科与阿菲夫的锋线对决，波黑黄金一代的最后一舞。\n📌 官方赛程编号：52
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：波黑 vs 卡塔尔 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T070000
-DTEND;TZID=Asia/Shanghai:20260625T085000
-SUMMARY:【C组·第3轮】🏴󠁧󠁢󠁳󠁣󠁴󠁿 苏格兰 vs 🇧🇷 巴西
-LOCATION:迈阿密，硬石体育场
-DESCRIPTION:🏟️ 迈阿密硬石体育场\n🌟 看点：桑巴 vs 风笛。巴西进攻线华丽，苏格兰球迷的热情闻名世界。1982年世界杯巴西与苏格兰的经典对决（巴西4-1）至今被铭记，苏格兰能否改写历史？\n📌 官方赛程编号：53
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：苏格兰 vs 巴西 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T070000
-DTEND;TZID=Asia/Shanghai:20260625T085000
-SUMMARY:【C组·第3轮】🇲🇦 摩洛哥 vs 🇭🇹 海地
-LOCATION:亚特兰大，梅赛德斯-奔驰体育场
-DESCRIPTION:🏟️ 亚特兰大梅赛德斯-奔驰体育场\n🌟 看点：非洲冠军 vs 新军。上届四强摩洛哥整体实力远超海地，但海地首次参赛，每一粒进球、每一分都是国家史上的里程碑。海地门将能否扑出齐耶赫的远射？\n📌 官方赛程编号：54
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：摩洛哥 vs 海地 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T100000
-DTEND;TZID=Asia/Shanghai:20260625T115000
-SUMMARY:【D组·第3轮】🇹🇷 土耳其 vs 🇺🇸 美国
-LOCATION:西雅图，流明球场
-DESCRIPTION:🏟️ 西雅图流明球场\n🌟 看点：东道主的生死战。美国队拥有主场优势，土耳其时隔24年重返世界杯志在证明自己。两队实力接近，赢球一方将大概率锁定出线名额，比赛激烈程度可想而知。\n📌 官方赛程编号：55
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：土耳其 vs 美国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260625T100000
-DTEND;TZID=Asia/Shanghai:20260625T115000
-SUMMARY:【D组·第3轮】🇵🇾 巴拉圭 vs 🇦🇺 澳大利亚
-LOCATION:洛杉矶，SoFi体育场
-DESCRIPTION:🏟️ 洛杉矶SoFi体育场\n🌟 看点：硬汉对决。巴拉圭防守坚固，澳大利亚高空球优势明显。两队风格硬朗，身体对抗将是比赛的主旋律。谁能在这场硬碰硬的较量中笑到最后？\n📌 官方赛程编号：56
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴拉圭 vs 澳大利亚 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T010000
-DTEND;TZID=Asia/Shanghai:20260626T025000
-SUMMARY:【E组·第3轮】🇪🇨 厄瓜多尔 vs 🇩🇪 德国
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：德国战车的考验。厄瓜多尔预选赛曾击败巴西和阿根廷，凯塞多领衔的中场不容小觑。德国队若想确保小组第一，此役必须全力争胜。\n📌 官方赛程编号：57
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：厄瓜多尔 vs 德国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T010000
-DTEND;TZID=Asia/Shanghai:20260626T025000
-SUMMARY:【E组·第3轮】🇨🇼 库拉索 vs 🇨🇮 科特迪瓦
-LOCATION:费城，林肯金融球场
-DESCRIPTION:🏟️ 费城林肯金融球场\n🌟 看点：新军 vs 大象。库拉索已经创造了历史，这场比赛是他们积累世界杯经验的关键一战；科特迪瓦仍需为出线名额奋力一搏，佩佩和凯西将全力以赴。\n📌 官方赛程编号：58
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：库拉索 vs 科特迪瓦 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T040000
-DTEND;TZID=Asia/Shanghai:20260626T055000
-SUMMARY:【F组·第3轮】🇯🇵 日本 vs 🇸🇪 瑞典
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：技术 vs 力量。日本队技术细腻，渴望突破世界杯16强天花板；瑞典身体对抗强悍，伊萨克和库卢塞夫斯基领衔。风格迥异的对决，谁将笑到最后？\n📌 官方赛程编号：59
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：日本 vs 瑞典 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T040000
-DTEND;TZID=Asia/Shanghai:20260626T055000
-SUMMARY:【F组·第3轮】🇹🇳 突尼斯 vs 🇳🇱 荷兰
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：橙衣军团的考验。突尼斯防守韧性十足，范迪克领衔的荷兰防线能否零封对手？F组出线形势扑朔迷离，这场比赛的结果将直接影响谁能够晋级。\n📌 官方赛程编号：60
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：突尼斯 vs 荷兰 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T070000
-DTEND;TZID=Asia/Shanghai:20260626T085000
-SUMMARY:【G组·第3轮】🇳🇿 新西兰 vs 🇧🇪 比利时
-LOCATION:洛杉矶，SoFi体育场
-DESCRIPTION:🏟️ 洛杉矶SoFi体育场\n🌟 看点：黄金一代的谢幕。比利时黄金一代的谢幕演出，德布劳内、卢卡库渴望在最后一届世界杯走得更远；新西兰时隔16年重返世界杯，将为本大洲荣誉而战。\n📌 官方赛程编号：61
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：新西兰 vs 比利时 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T070000
-DTEND;TZID=Asia/Shanghai:20260626T085000
-SUMMARY:【G组·第3轮】🇪🇬 埃及 vs 🇮🇷 伊朗
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：萨拉赫 vs 塔雷米。埃及对阵伊朗，两大洲劲旅的正面交锋。萨拉赫领衔的埃及攻击线将与塔雷米领衔的伊朗锋线展开对决，这场比赛极有可能决定G组第二和第三的归属。\n📌 官方赛程编号：62
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：埃及 vs 伊朗 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T100000
-DTEND;TZID=Asia/Shanghai:20260626T115000
-SUMMARY:【H组·第3轮】🇨🇻 佛得角 vs 🇸🇦 沙特阿拉伯
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：新军 vs 亚洲劲旅。佛得角首次登上世界杯舞台，沙特渴望延续上届击败阿根廷的神奇表现。两队可能为小组第三附加赛的有利位置而战，无论结果如何都将创造各自国家的足球历史。\n📌 官方赛程编号：63
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：佛得角 vs 沙特阿拉伯 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260626T100000
-DTEND;TZID=Asia/Shanghai:20260626T115000
-SUMMARY:【H组·第3轮】🇺🇾 乌拉圭 vs 🇪🇸 西班牙
-LOCATION:瓜达拉哈拉，阿克伦球场
-DESCRIPTION:🏟️ 瓜达拉哈拉阿克伦球场\n🌟 看点：宿命对决！2010年南非世界杯半决赛，西班牙凭借普约尔的绝杀1-0淘汰乌拉圭，最终夺冠。16年后，两队再次在小组赛相遇。西班牙的传控艺术 vs 乌拉圭的铁血足球，恩怨再度续写，小组头名之争一触即发。\n📌 官方赛程编号：64
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：乌拉圭 vs 西班牙 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T010000
-DTEND;TZID=Asia/Shanghai:20260627T025000
-SUMMARY:【I组·第3轮】🇳🇴 挪威 vs 🇫🇷 法国
-LOCATION:波士顿，吉列体育场
-DESCRIPTION:🏟️ 波士顿吉列体育场\n🌟 看点：姆巴佩 vs 哈兰德！世纪对决！当今足坛新双骄的世界杯首次正面交锋。法国是卫冕冠军，姆巴佩渴望带领球队再次登顶；哈兰德时隔28年将挪威带回世界杯。这场比赛的意义远不止于小组出线，全世界球迷的目光都将聚焦于此。\n📌 官方赛程编号：65
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：挪威 vs 法国 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T010000
-DTEND;TZID=Asia/Shanghai:20260627T025000
-SUMMARY:【I组·第3轮】🇸🇳 塞内加尔 vs 🇮🇶 伊拉克
-LOCATION:迈阿密，硬石体育场
-DESCRIPTION:🏟️ 迈阿密硬石体育场\n🌟 看点：意志力对决。伊拉克时隔36年重返世界杯，经历过战火洗礼的球员意志力超乎寻常；塞内加尔拥有马内、库利巴利等世界级球员。两队的直接对话将决定I组最终的出线名额归属。\n📌 官方赛程编号：66
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：塞内加尔 vs 伊拉克 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T040000
-DTEND;TZID=Asia/Shanghai:20260627T055000
-SUMMARY:【J组·第3轮】🇩🇿 阿尔及利亚 vs 🇦🇹 奥地利
-LOCATION:堪萨斯城，箭头体育场
-DESCRIPTION:🏟️ 堪萨斯城箭头体育场\n🌟 看点：技术流 vs 高位逼抢。阿尔及利亚拥有马赫雷斯等技术型球员，奥地利则拥有朗尼克的高位逼抢体系。这场比赛可能决定J组最终排名，马赫雷斯 vs 萨比策，谁将带领球队晋级？\n📌 官方赛程编号：67
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：阿尔及利亚 vs 奥地利 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T040000
-DTEND;TZID=Asia/Shanghai:20260627T055000
-SUMMARY:【J组·第3轮】🇯🇴 约旦 vs 🇦🇷 阿根廷
-LOCATION:达拉斯，AT&T体育场
-DESCRIPTION:🏟️ 达拉斯AT&T体育场\n🌟 看点：新军 vs 卫冕冠军。约旦首次登上世界杯舞台，面对阿根廷是他们国家足球史上最荣耀的时刻；阿根廷新老交替后实力不减，劳塔罗、恩佐领衔的新一代渴望延续夺冠辉煌。约旦门将能否复制上届沙特门将的神奇表现？\n📌 官方赛程编号：68
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：约旦 vs 阿根廷 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T070000
-DTEND;TZID=Asia/Shanghai:20260627T085000
-SUMMARY:【K组·第3轮】🇨🇴 哥伦比亚 vs 🇵🇹 葡萄牙
-LOCATION:亚特兰大，梅赛德斯-奔驰体育场
-DESCRIPTION:🏟️ 亚特兰大梅赛德斯-奔驰体育场\n🌟 看点：小组头名争夺战！南美雄鹰与欧洲劲旅的强强对话，迪亚斯和B席在英超的对手关系将延续到世界杯赛场。C罗能否带领葡萄牙以全胜战绩出线？\n📌 官方赛程编号：69
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：哥伦比亚 vs 葡萄牙 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T070000
-DTEND;TZID=Asia/Shanghai:20260627T085000
-SUMMARY:【K组·第3轮】🇨🇩 刚果民主共和国 vs 🇺🇿 乌兹别克斯坦
-LOCATION:休斯顿，NRG体育场
-DESCRIPTION:🏟️ 休斯顿NRG体育场\n🌟 看点：新军对决。两支世界杯新军相遇，胜利者将带着荣耀结束本次大赛征程。刚果民主共和国的身体素质 vs 乌兹别克斯坦的战术纪律，谁将赢得队史世界杯首胜？\n📌 官方赛程编号：70
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：刚果民主共和国 vs 乌兹别克斯坦 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T100000
-DTEND;TZID=Asia/Shanghai:20260627T115000
-SUMMARY:【L组·第3轮】🇭🇷 克罗地亚 vs 🇬🇭 加纳
-LOCATION:费城，林肯金融球场
-DESCRIPTION:🏟️ 费城林肯金融球场\n🌟 看点：中场大师 vs 黑星硬汉。克罗地亚对阵加纳，两支球队均以不屈不挠著称。莫德里奇最后一届世界杯，克罗地亚老将渴望再次书写传奇；加纳拥有托马斯、库杜斯等英超球星，中场对抗将异常激烈。\n📌 官方赛程编号：71
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：克罗地亚 vs 加纳 30分钟后开始
-END:VALARM
-END:VEVENT
-
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Shanghai:20260627T100000
-DTEND;TZID=Asia/Shanghai:20260627T115000
-SUMMARY:【L组·第3轮】🇵🇦 巴拿马 vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰
-LOCATION:纽约/新泽西，大都会人寿体育场
-DESCRIPTION:🏟️ 纽约大都会人寿体育场\n🌟 看点：复仇之战？2018年英格兰曾6-1大胜巴拿马，巴拿马渴望改写历史。英格兰拥有凯恩、贝林厄姆、萨卡等世界级球星，是本届夺冠热门之一。巴拿马能否在纽约这个“主场”创造奇迹？\n📌 官方赛程编号：72
-BEGIN:VALARM
-TRIGGER:-PT30M
-ACTION:DISPLAY
-DESCRIPTION:⚽ 世界杯提醒：巴拿马 vs 英格兰 30分钟后开始
-END:VALARM
+X-APPLE-CALENDAR-COLOR:#E60000
+X-PUBLISHED-TTL:PT7D
+
+BEGIN:VEVENT
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:🇲🇽墨西哥 vs 🇿🇦南非
+DESCRIPTION:小组：A组\n轮次：第1轮（揭幕战）\n比赛双方：墨西哥 vs 南非\n球场：墨西哥城体育场（阿兹特克体育场）\n\n🏆 比赛看点：2010年南非世界杯揭幕战重现 东道主墨西哥三度承办揭幕战 阿兹特克体育场见证历史\n\n📊 胜负预测：墨西哥胜（大概率） 墨西哥主场作战实力占优且拥有87 523名球迷加持 南非时隔16年重返世界杯大赛经验处于下风
+LOCATION:墨西哥城体育场（阿兹特克体育场） 墨西哥城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R1-MEX-RSA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260612T020000Z
+DTEND:20260612T040000Z
+SUMMARY:🇰🇷韩国 vs 🇨🇿捷克
+DESCRIPTION:小组：A组\n轮次：第1轮\n比赛双方：韩国 vs 捷克\n球场：瓜达拉哈拉体育场\n\n🏆 比赛看点：韩国连续第11次征战世界杯孙兴慜领衔 捷克时隔20年重返世界杯舞台 双方首次世界杯正赛交锋\n\n📊 胜负预测：平局（大概率） 韩国世界排名更优但捷克附加赛淘汰丹麦气势正盛 亚洲劲旅与东欧铁骑实力接近
+LOCATION:瓜达拉哈拉体育场 瓜达拉哈拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R1-KOR-CZE
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:🇨🇦加拿大 vs 🇧🇦波黑
+DESCRIPTION:小组：B组\n轮次：第1轮\n比赛双方：加拿大 vs 波黑\n球场：多伦多体育场\n\n🏆 比赛看点：加拿大主场首秀阿方索·戴维斯率队 波黑爆冷淘汰意大利后首次独立参赛 东道主优势对阵黑马之师\n\n📊 胜负预测：加拿大胜（大概率） 东道主主场之利整体阵容深度占优 波黑虽淘汰意大利但客场长途跋涉考验较大
+LOCATION:多伦多体育场 多伦多
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R1-CAN-BIH
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260613T010000Z
+DTEND:20260613T030000Z
+SUMMARY:🇺🇸美国 vs 🇵🇾巴拉圭
+DESCRIPTION:小组：D组\n轮次：第1轮\n比赛双方：美国 vs 巴拉圭\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：东道主美国首秀普利西奇领衔青春风暴 巴拉圭南美铁血防守体系严整 洛杉矶超级碗级场馆迎世界杯首秀\n\n📊 胜负预测：美国胜（大概率） 东道主主场优势阵容年轻且冲击力强 巴拉圭进攻端创造力有限
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R1-USA-PAR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260613T060000Z
+DTEND:20260613T080000Z
+SUMMARY:🇦🇺澳大利亚 vs 🇹🇷土耳其
+DESCRIPTION:小组：D组\n轮次：第1轮\n比赛双方：澳大利亚 vs 土耳其\n球场：温哥华BC广场体育场\n\n🏆 比赛看点：澳大利亚连续第六次闯入世界杯 土耳其附加赛晋级志在证明自我 亚欧足球风格的正面对话\n\n📊 胜负预测：平局（大概率） 澳大利亚大赛经验丰富但土耳其整体实力不俗 两队势均力敌难分高下
+LOCATION:温哥华BC广场体育场 温哥华
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R1-AUS-TUR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:🇶🇦卡塔尔 vs 🇨🇭瑞士
+DESCRIPTION:小组：B组\n轮次：第1轮\n比赛双方：卡塔尔 vs 瑞士\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：上届东道主卡塔尔迎战欧洲劲旅 瑞士连续六届大赛经验老道 卡塔尔亚洲杯夺冠后信心提升\n\n📊 胜负预测：瑞士胜（大概率） 瑞士大赛经验丰富整体实力明显占优 卡塔尔虽进步神速但面对欧洲球队难度较大
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R1-QAT-SUI
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:🇧🇷巴西 vs 🇲🇦摩洛哥
+DESCRIPTION:小组：C组\n轮次：第1轮\n比赛双方：巴西 vs 摩洛哥\n球场：纽约新泽西体育场（大都会人寿体育场）\n\n🏆 比赛看点：五星巴西冲击24年冠军荒安切洛蒂挂帅 摩洛哥上届四强黑马哈基米领军 维尼修斯对决摩洛哥钢铁防线\n\n📊 胜负预测：巴西胜（大概率） 巴西整体实力远超摩洛哥但摩洛哥防守稳固 预计巴西一球小胜复仇2022年失利
+LOCATION:纽约新泽西体育场（大都会人寿体育场） 纽约
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R1-BRA-MAR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260614T010000Z
+DTEND:20260614T030000Z
+SUMMARY:🇭🇹海地 vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿苏格兰
+DESCRIPTION:小组：C组\n轮次：第1轮\n比赛双方：海地 vs 苏格兰\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：海地时隔52年重返世界杯仅第二次参赛 苏格兰28年首登世界杯舞台麦克托米奈领衔 两支久违世界杯球队的正面对话\n\n📊 胜负预测：苏格兰胜（大概率） 苏格兰预选赛力压丹麦出线实力更胜一筹 海地实力在组内相对薄弱
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R1-HAI-SCO
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260614T170000Z
+DTEND:20260614T190000Z
+SUMMARY:🇩🇪德国 vs 🇨🇼库拉索
+DESCRIPTION:小组：E组\n轮次：第1轮\n比赛双方：德国 vs 库拉索\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：德国战车世界杯首战穆西亚拉维尔茨新星闪耀 库拉索历史首次闯入世界杯书写传奇 实力悬殊但库拉索防守意志值得关注\n\n📊 胜负预测：德国胜（大概率大胜） 德国实力压倒性优势库拉索世界排名远低于对手 德国有望3球以上取胜
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R1-GER-CUW
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:🇳🇱荷兰 vs 🇯🇵日本
+DESCRIPTION:小组：F组\n轮次：第1轮\n比赛双方：荷兰 vs 日本\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：橙衣军团对阵蓝武士欧洲劲旅vs亚洲最强 荷兰科曼二期冲击大力神杯 日本史上最豪华阵容远藤航久保建英领衔\n\n📊 胜负预测：荷兰胜（大概率） 荷兰大赛经验丰富整体实力占优 日本虽阵容强大但三笘薰伤缺影响锋线攻击力
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R1-NED-JPN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260614T230000Z
+DTEND:20260615T010000Z
+SUMMARY:🇨🇮科特迪瓦 vs 🇪🇨厄瓜多尔
+DESCRIPTION:小组：E组\n轮次：第1轮\n比赛双方：科特迪瓦 vs 厄瓜多尔\n球场：费城体育场（林肯金融体育场）\n\n🏆 比赛看点：非洲大象对阵南美劲旅 科特迪瓦新科非洲杯冠军实力不俗 厄瓜多尔世预赛曾击败巴西韧劲十足\n\n📊 胜负预测：平局（大概率） 两队实力接近各有优势 非洲球队速度对抗南美球队技术 胜负难料
+LOCATION:费城体育场（林肯金融体育场） 费城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R1-CIV-ECU
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260615T020000Z
+DTEND:20260615T040000Z
+SUMMARY:🇸🇪瑞典 vs 🇹🇳突尼斯
+DESCRIPTION:小组：F组\n轮次：第1轮\n比赛双方：瑞典 vs 突尼斯\n球场：蒙特雷体育场\n\n🏆 比赛看点：瑞典携英超双枪时隔八年重返世界杯 突尼斯连续三届跻身决赛圈 北欧力量对抗北非新军风格迥异\n\n📊 胜负预测：平局（大概率） 瑞典大赛经验不足但英超双枪火力凶猛 突尼斯防守稳固韧性十足 首战难以拉开差距
+LOCATION:蒙特雷体育场 蒙特雷
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R1-SWE-TUN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:🇪🇸西班牙 vs 🇨🇻佛得角
+DESCRIPTION:小组：H组\n轮次：第1轮\n比赛双方：西班牙 vs 佛得角\n球场：亚特兰大体育场（梅赛德斯-奔驰体育场）\n\n🏆 比赛看点：斗牛士军团世界杯首秀夺冠大热门 佛得角历史首次闯入世界杯非洲新势力 西班牙传控足球对阵非洲黑马\n\n📊 胜负预测：西班牙胜（大概率大胜） 西班牙实力远超佛得角传控体系将主导比赛 佛得角首登世界杯舞台大赛经验不足
+LOCATION:亚特兰大体育场（梅赛德斯-奔驰体育场） 亚特兰大
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R1-ESP-CPV
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+SUMMARY:🇧🇪比利时 vs 🇪🇬埃及
+DESCRIPTION:小组：G组\n轮次：第1轮\n比赛双方：比利时 vs 埃及\n球场：西雅图体育场（流明体育场）\n\n🏆 比赛看点：欧洲红魔黄金一代最后冲刺德布劳内卢卡库搭档 埃及萨拉赫孤胆英雄力图突破 西雅图世界最响球场之一气氛火爆\n\n📊 胜负预测：比利时胜（大概率） 比利时整体实力明显占优攻击线豪华 埃及攻守相对单一依赖萨拉赫个人发挥
+LOCATION:西雅图体育场（流明体育场） 西雅图
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R1-BEL-EGY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260615T220000Z
+DTEND:20260616T000000Z
+SUMMARY:🇸🇦沙特阿拉伯 vs 🇺🇾乌拉圭
+DESCRIPTION:小组：H组\n轮次：第1轮\n比赛双方：沙特阿拉伯 vs 乌拉圭\n球场：迈阿密体育场（硬石体育场）\n\n🏆 比赛看点：亚洲绿隼对阵南美天蓝军团 乌拉圭努涅斯巴尔韦德领衔新老交替 沙特西亚劲旅力图挑战南美强队\n\n📊 胜负预测：乌拉圭胜（大概率） 乌拉圭世界杯底蕴深厚攻防两端全面领先 沙特面对南美球队身体对抗劣势明显
+LOCATION:迈阿密体育场（硬石体育场） 迈阿密花园
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R1-KSA-URU
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260616T010000Z
+DTEND:20260616T030000Z
+SUMMARY:🇮🇷伊朗 vs 🇳🇿新西兰
+DESCRIPTION:小组：G组\n轮次：第1轮\n比赛双方：伊朗 vs 新西兰\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：亚洲铁骑对阵大洋洲独苗 伊朗连续第四届参赛塔雷米阿兹蒙双枪 新西兰时隔16年重返世界杯舞台\n\n📊 胜负预测：伊朗胜（大概率） 伊朗大赛经验丰富亚洲劲旅实力占优 新西兰实力相对较弱但防守不容小觑
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R1-IRN-NZL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+SUMMARY:🇫🇷法国 vs 🇸🇳塞内加尔
+DESCRIPTION:小组：I组\n轮次：第1轮\n比赛双方：法国 vs 塞内加尔\n球场：纽约新泽西体育场（大都会人寿体育场）\n\n🏆 比赛看点：2002年揭幕战重演卫冕冠军对阵非洲雄狮 姆巴佩领衔法国豪华攻击线 塞内加尔非洲杯冠军实力不俗\n\n📊 胜负预测：法国胜（大概率） 法国夺冠大热门阵容豪华攻击力爆表 塞内加尔虽有爆冷传统但整体差距明显
+LOCATION:纽约新泽西体育场（大都会人寿体育场） 纽约
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R1-FRA-SEN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260616T220000Z
+DTEND:20260617T000000Z
+SUMMARY:🇮🇶伊拉克 vs 🇳🇴挪威
+DESCRIPTION:小组：I组\n轮次：第1轮\n比赛双方：伊拉克 vs 挪威\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：伊拉克时隔40年重返世界杯亚洲黑马 挪威哈兰德世界杯首秀当今足坛最强中锋 亚洲坚韧对阵北欧力量\n\n📊 胜负预测：挪威胜（大概率） 哈兰德个人能力超强挪威整体实力占优 伊拉克重返世界杯经验不足需时间适应
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R1-IRQ-NOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260617T010000Z
+DTEND:20260617T030000Z
+SUMMARY:🇦🇷阿根廷 vs 🇩🇿阿尔及利亚
+DESCRIPTION:小组：J组\n轮次：第1轮\n比赛双方：阿根廷 vs 阿尔及利亚\n球场：堪萨斯城体育场（箭头体育场）\n\n🏆 比赛看点：卫冕冠军阿根廷首秀梅西最后一届世界杯 阿尔及利亚非洲劲旅力图阻击 潘帕斯雄鹰能否延续上届夺冠势头\n\n📊 胜负预测：阿根廷胜（大概率） 阿根廷实力碾压梅西领衔群星闪耀 阿尔及利亚虽有拼劲但实力差距悬殊
+LOCATION:堪萨斯城体育场（箭头体育场） 堪萨斯城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R1-ARG-ALG
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260617T040000Z
+DTEND:20260617T060000Z
+SUMMARY:🇦🇹奥地利 vs 🇯🇴约旦
+DESCRIPTION:小组：J组\n轮次：第1轮\n比赛双方：奥地利 vs 约旦\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：奥地利阿拉巴领衔欧洲劲旅稳步前进 约旦历史首次闯入世界杯亚洲新势力 欧洲技术流对阵亚洲新军\n\n📊 胜负预测：奥地利胜（大概率） 奥地利欧洲劲旅整体实力更胜一筹 约旦首登世界杯舞台经验不足
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R1-AUT-JOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260617T170000Z
+DTEND:20260617T190000Z
+SUMMARY:🇵🇹葡萄牙 vs 🇨🇩民主刚果
+DESCRIPTION:小组：K组\n轮次：第1轮\n比赛双方：葡萄牙 vs 民主刚果\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：葡萄牙C罗最后一届世界杯布鲁诺·费尔南德斯辅佐 民主刚果时隔52年重返世界杯非洲黑马 欧洲技术流对阵非洲力量\n\n📊 胜负预测：葡萄牙胜（大概率） 葡萄牙实力碾压C罗大赛经验丰富 民主刚果回归世界杯需适应大赛节奏
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R1-POR-COD
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260617T200000Z
+DTEND:20260617T220000Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿英格兰 vs 🇭🇷克罗地亚
+DESCRIPTION:小组：L组\n轮次：第1轮\n比赛双方：英格兰 vs 克罗地亚\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：2018半决赛重演三狮军团复仇之战 英格兰贝林厄姆凯恩组合火力全开 克罗地亚莫德里奇最后一届世界杯新老交替 小组赛最有悬念的一战\n\n📊 胜负预测：平局（大概率） 英格兰实力略优但克罗地亚大赛经验丰富 两队旗鼓相当莫德里奇和贝林厄姆中场对决精彩
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R1-ENG-CRO
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260617T230000Z
+DTEND:20260618T010000Z
+SUMMARY:🇬🇭加纳 vs 🇵🇦巴拿马
+DESCRIPTION:小组：L组\n轮次：第1轮\n比赛双方：加纳 vs 巴拿马\n球场：多伦多体育场\n\n🏆 比赛看点：非洲黑星对阵中北美劲旅 加纳非洲传统强队力图重振雄风 巴拿马第二次世界杯之旅期待突破\n\n📊 胜负预测：平局（大概率） 两队实力接近各有机会 加纳速度优势对阵巴拿马防守体系 首战双方不会轻易冒进
+LOCATION:多伦多体育场 多伦多
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R1-GHA-PAN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260618T020000Z
+DTEND:20260618T040000Z
+SUMMARY:🇺🇿乌兹别克斯坦 vs 🇨🇴哥伦比亚
+DESCRIPTION:小组：K组\n轮次：第1轮\n比赛双方：乌兹别克斯坦 vs 哥伦比亚\n球场：墨西哥城体育场（阿兹特克体育场）\n\n🏆 比赛看点：乌兹别克斯坦历史首次闯入世界杯亚洲新势力 哥伦比亚路易斯·迪亚斯领军南美劲旅 亚洲新军对阵南美豪强\n\n📊 胜负预测：哥伦比亚胜（大概率） 哥伦比亚南美劲旅大赛经验丰富 乌兹别克首登世界杯舞台需积累经验
+LOCATION:墨西哥城体育场（阿兹特克体育场） 墨西哥城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R1-UZB-COL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+SUMMARY:🇨🇿捷克 vs 🇿🇦南非
+DESCRIPTION:小组：A组\n轮次：第2轮\n比赛双方：捷克 vs 南非\n球场：亚特兰大体育场（梅赛德斯-奔驰体育场）\n\n🏆 比赛看点：捷克20年来首回世界杯力争首胜 南非揭幕战后需快速调整心态 欧洲中游球队对阵非洲劲旅\n\n📊 胜负预测：平局（大概率） 捷克整体实力略优但南非身体对抗有优势 第二轮关键战双方势必全力以赴
+LOCATION:亚特兰大体育场（梅赛德斯-奔驰体育场） 亚特兰大
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R2-CZE-RSA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260618T190000Z
+DTEND:20260618T210000Z
+SUMMARY:🇨🇭瑞士 vs 🇧🇦波黑
+DESCRIPTION:小组：B组\n轮次：第2轮\n比赛双方：瑞士 vs 波黑\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：瑞士稳健发挥力争提前出线 波黑首战加拿大后急需积分 欧洲内战瑞士经验对阵波黑韧劲\n\n📊 胜负预测：瑞士胜（大概率） 瑞士大赛经验丰富攻防体系成熟 波黑虽淘汰意大利但稳定性不如瑞士
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R2-SUI-BIH
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260618T220000Z
+DTEND:20260619T000000Z
+SUMMARY:🇨🇦加拿大 vs 🇶🇦卡塔尔
+DESCRIPTION:小组：B组\n轮次：第2轮\n比赛双方：加拿大 vs 卡塔尔\n球场：温哥华BC广场体育场\n\n🏆 比赛看点：加拿大继续主场之利力争连胜 卡塔尔需全力拼搏争取首分 东道主优势对阵亚洲冠军\n\n📊 胜负预测：加拿大胜（大概率） 加拿大主场作战阿方索·戴维斯状态火热 卡塔尔实力稍逊但韧劲值得关注
+LOCATION:温哥华BC广场体育场 温哥华
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R2-CAN-QAT
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260619T010000Z
+DTEND:20260619T030000Z
+SUMMARY:🇲🇽墨西哥 vs 🇰🇷韩国
+DESCRIPTION:小组：A组\n轮次：第2轮\n比赛双方：墨西哥 vs 韩国\n球场：瓜达拉哈拉体育场\n\n🏆 比赛看点：东道主继续主场之利力争连胜 韩国孙兴慜领军亚洲劲旅求突破 墨西哥主场氛围对阵韩国速度反击\n\n📊 胜负预测：平局（大概率） 墨西哥虽有主场优势但韩国整体阵容不弱 两队实力接近交锋激烈
+LOCATION:瓜达拉哈拉体育场 瓜达拉哈拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R2-MEX-KOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:🇺🇸美国 vs 🇦🇺澳大利亚
+DESCRIPTION:小组：D组\n轮次：第2轮\n比赛双方：美国 vs 澳大利亚\n球场：西雅图体育场（流明体育场）\n\n🏆 比赛看点：东道主美国力争两连胜提前出线 澳大利亚亚洲劲旅力图阻拦 西雅图世界最响球场之一气氛火爆\n\n📊 胜负预测：美国胜（大概率） 美国主场气势如虹阵容活力十足 澳大利亚首战消耗较大体能存疑
+LOCATION:西雅图体育场（流明体育场） 西雅图
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R2-USA-AUS
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260619T220000Z
+DTEND:20260620T000000Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿苏格兰 vs 🇲🇦摩洛哥
+DESCRIPTION:小组：C组\n轮次：第2轮\n比赛双方：苏格兰 vs 摩洛哥\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：苏格兰28年首回世界杯对阵上届四强 摩洛哥阿什拉夫领衔非洲最强黑马 欧洲传统足球对阵非洲技术流\n\n📊 胜负预测：摩洛哥胜（大概率） 摩洛哥实力明显占优上届四强底蕴深厚 苏格兰首战消耗大面对强队难度较高
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R2-SCO-MAR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260620T010000Z
+DTEND:20260620T030000Z
+SUMMARY:🇧🇷巴西 vs 🇭🇹海地
+DESCRIPTION:小组：C组\n轮次：第2轮\n比赛双方：巴西 vs 海地\n球场：费城体育场（林肯金融体育场）\n\n🏆 比赛看点：巴西力争连胜维尼修斯对决海地防线 海地52年首回世界杯面对五星巴西 实力悬殊但海地防守意志顽强\n\n📊 胜负预测：巴西胜（大概率大胜） 巴西实力碾压安切洛蒂挂帅战术严谨 海地实力薄弱难以招架预计3球以上失利
+LOCATION:费城体育场（林肯金融体育场） 费城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R2-BRA-HAI
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260620T040000Z
+DTEND:20260620T060000Z
+SUMMARY:🇹🇷土耳其 vs 🇵🇾巴拉圭
+DESCRIPTION:小组：D组\n轮次：第2轮\n比赛双方：土耳其 vs 巴拉圭\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：土耳其附加赛晋级志在抢分 巴拉圭南美铁血防守力争不败 欧亚交汇对阵南美劲旅风格碰撞\n\n📊 胜负预测：平局（大概率） 土耳其大赛经验相对丰富但巴拉圭防守体系稳固 两队实力在伯仲之间
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R2-TUR-PAR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260620T200000Z
+DTEND:20260620T220000Z
+SUMMARY:🇳🇱荷兰 vs 🇸🇪瑞典
+DESCRIPTION:小组：F组\n轮次：第2轮\n比赛双方：荷兰 vs 瑞典\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：荷兰力争连胜提前出线瑞典首战消耗待考 范迪克领衔荷兰防线对阵瑞典英超双枪 欧洲劲旅内战实力对决\n\n📊 胜负预测：荷兰胜（大概率） 荷兰整体实力占优科曼二期体系成熟 瑞典时隔八年重返世界杯稳定性不足
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R2-NED-SWE
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260620T220000Z
+DTEND:20260621T000000Z
+SUMMARY:🇩🇪德国 vs 🇨🇮科特迪瓦
+DESCRIPTION:小组：E组\n轮次：第2轮\n比赛双方：德国 vs 科特迪瓦\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：德国力争两连胜提前出线穆西亚拉维尔茨新星担纲 科特迪瓦非洲杯冠军力图爆冷 欧洲战车对阵非洲大象\n\n📊 胜负预测：德国胜（大概率） 德国首战大胜士气高涨整体实力碾压 科特迪瓦虽有非洲杯光环但大赛经验差距较大
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R2-GER-CIV
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260621T000000Z
+DTEND:20260621T020000Z
+SUMMARY:🇪🇨厄瓜多尔 vs 🇨🇼库拉索
+DESCRIPTION:小组：E组\n轮次：第2轮\n比赛双方：厄瓜多尔 vs 库拉索\n球场：费城体育场（林肯金融体育场）\n\n🏆 比赛看点：厄瓜多尔力争首胜稳固出线形势 库拉索首战德国后需快速恢复信心 南美劲旅对阵加勒比新军\n\n📊 胜负预测：厄瓜多尔胜（大概率） 厄瓜多尔实力明显优于库拉索世预赛曾击败巴西 库拉索小组实力最弱连败可能性大
+LOCATION:费城体育场（林肯金融体育场） 费城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R2-ECU-CUW
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260621T040000Z
+DTEND:20260621T060000Z
+SUMMARY:🇹🇳突尼斯 vs 🇯🇵日本
+DESCRIPTION:小组：F组\n轮次：第2轮\n比赛双方：突尼斯 vs 日本\n球场：蒙特雷体育场\n\n🏆 比赛看点：日本首战荷兰后急需抢分稳固出线形势 突尼斯连续三届参赛力图突破 非洲劲旅对阵蓝武士亚洲最强\n\n📊 胜负预测：日本胜（大概率） 日本阵容豪华远藤航久保建英领衔 突尼斯进攻端创造力有限日本技术占优
+LOCATION:蒙特雷体育场 蒙特雷
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R2-TUN-JPN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260622T000000Z
+DTEND:20260622T020000Z
+SUMMARY:🇧🇪比利时 vs 🇮🇷伊朗
+DESCRIPTION:小组：G组\n轮次：第2轮\n比赛双方：比利时 vs 伊朗\n球场：西雅图体育场（流明体育场）\n\n🏆 比赛看点：欧洲红魔力争连胜德布劳内卢卡库双核驱动 伊朗亚洲铁骑塔雷米阿兹蒙双枪力图阻击 欧洲技术流对阵亚洲防守反击\n\n📊 胜负预测：比利时胜（大概率） 比利时整体实力碾压攻击线豪华 伊朗防守虽顽强但面对欧洲顶级球队难度较高
+LOCATION:西雅图体育场（流明体育场） 西雅图
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R2-BEL-IRN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260622T020000Z
+DTEND:20260622T040000Z
+SUMMARY:🇪🇬埃及 vs 🇳🇿新西兰
+DESCRIPTION:小组：G组\n轮次：第2轮\n比赛双方：埃及 vs 新西兰\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：埃及萨拉赫力争首胜带队出线 新西兰大洋洲独苗力图抢分 非洲球星对阵大洋洲新军实力对比\n\n📊 胜负预测：埃及胜（大概率） 萨拉赫个人能力超强埃及整体实力占优 新西兰实力较弱难以抵挡埃及进攻
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R2-EGY-NZL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260622T160000Z
+DTEND:20260622T180000Z
+SUMMARY:🇪🇸西班牙 vs 🇸🇦沙特阿拉伯
+DESCRIPTION:小组：H组\n轮次：第2轮\n比赛双方：西班牙 vs 沙特阿拉伯\n球场：亚特兰大体育场（梅赛德斯-奔驰体育场）\n\n🏆 比赛看点：西班牙力争连胜传控足球制霸 沙特亚洲劲旅力图阻击西班牙 斗牛士军团对阵亚洲绿隼\n\n📊 胜负预测：西班牙胜（大概率大胜） 西班牙夺冠大热门实力碾压 沙特面对欧洲顶级传控体系难以招架
+LOCATION:亚特兰大体育场（梅赛德斯-奔驰体育场） 亚特兰大
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R2-ESP-KSA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260622T220000Z
+DTEND:20260623T000000Z
+SUMMARY:🇨🇻佛得角 vs 🇺🇾乌拉圭
+DESCRIPTION:小组：H组\n轮次：第2轮\n比赛双方：佛得角 vs 乌拉圭\n球场：迈阿密体育场（硬石体育场）\n\n🏆 比赛看点：佛得角首战西班牙后需快速恢复士气 乌拉圭力争连胜努涅斯巴尔韦德双核驱动 非洲新军对阵南美劲旅\n\n📊 胜负预测：乌拉圭胜（大概率） 乌拉圭世界杯底蕴深厚整体实力远胜佛得角 佛得角实力相对薄弱难以爆冷
+LOCATION:迈阿密体育场（硬石体育场） 迈阿密花园
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R2-CPV-URU
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260623T040000Z
+DTEND:20260623T060000Z
+SUMMARY:🇫🇷法国 vs 🇮🇶伊拉克
+DESCRIPTION:小组：I组\n轮次：第2轮\n比赛双方：法国 vs 伊拉克\n球场：纽约新泽西体育场（大都会人寿体育场）\n\n🏆 比赛看点：法国力争连胜姆巴佩对决伊拉克防线 伊拉克时隔40年重返世界杯面对卫冕冠军 实力悬殊但伊拉克防守意志顽强\n\n📊 胜负预测：法国胜（大概率大胜） 法国实力碾压姆巴佩领衔攻击线豪华 伊拉克实力差距明显难以抵挡法国进攻
+LOCATION:纽约新泽西体育场（大都会人寿体育场） 纽约
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R2-FRA-IRQ
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260623T060000Z
+DTEND:20260623T080000Z
+SUMMARY:🇸🇳塞内加尔 vs 🇳🇴挪威
+DESCRIPTION:小组：I组\n轮次：第2轮\n比赛双方：塞内加尔 vs 挪威\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：非洲杯冠军对阵北欧劲旅哈兰德世界杯第二战 塞内加尔非洲最强黑马力图阻击 死亡之组关键一战出线形势关键\n\n📊 胜负预测：平局（大概率） 塞内加尔防守稳固挪威哈兰德冲击力极强 两队各有所长胜负难料
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R2-SEN-NOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260623T170000Z
+DTEND:20260623T190000Z
+SUMMARY:🇦🇷阿根廷 vs 🇦🇹奥地利
+DESCRIPTION:小组：J组\n轮次：第2轮\n比赛双方：阿根廷 vs 奥地利\n球场：堪萨斯城体育场（箭头体育场）\n\n🏆 比赛看点：卫冕冠军力争连胜梅西带队冲击出线 奥地利阿拉巴领衔欧洲劲旅力图阻击 潘帕斯雄鹰对阵欧洲技术流\n\n📊 胜负预测：阿根廷胜（大概率） 阿根廷实力碾压梅西大赛经验丰富 奥地利虽有实力但面对卫冕冠军难度较高
+LOCATION:堪萨斯城体育场（箭头体育场） 堪萨斯城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R2-ARG-AUT
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260623T200000Z
+DTEND:20260623T220000Z
+SUMMARY:🇩🇿阿尔及利亚 vs 🇯🇴约旦
+DESCRIPTION:小组：J组\n轮次：第2轮\n比赛双方：阿尔及利亚 vs 约旦\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：阿尔及利亚非洲劲旅力争首胜出线 约旦历史首次世界杯期待突破 非洲足球对阵亚洲新军\n\n📊 胜负预测：平局（大概率） 阿尔及利亚首战消耗大可能调整阵容 约旦防守反击有威胁两队实力在伯仲之间
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R2-ALG-JOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260624T000000Z
+DTEND:20260624T020000Z
+SUMMARY:🇵🇹葡萄牙 vs 🇺🇿乌兹别克斯坦
+DESCRIPTION:小组：K组\n轮次：第2轮\n比赛双方：葡萄牙 vs 乌兹别克斯坦\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：葡萄牙C罗带队力争连胜布鲁诺·费尔南德斯状态关键 乌兹别克首登世界杯舞台力争抢分 欧洲劲旅对阵亚洲新军\n\n📊 胜负预测：葡萄牙胜（大概率） 葡萄牙实力碾压C罗大赛经验丰富 乌兹别克实力差距明显难以爆冷
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R2-POR-UZB
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260624T020000Z
+DTEND:20260624T040000Z
+SUMMARY:🇨🇩民主刚果 vs 🇨🇴哥伦比亚
+DESCRIPTION:小组：K组\n轮次：第2轮\n比赛双方：民主刚果 vs 哥伦比亚\n球场：墨西哥城体育场（阿兹特克体育场）\n\n🏆 比赛看点：民主刚果52年重返世界杯力争首胜 哥伦比亚路易斯·迪亚斯领衔南美劲旅 非洲黑马对阵南美豪强\n\n📊 胜负预测：哥伦比亚胜（大概率） 哥伦比亚南美劲旅攻防全面 民主刚果大赛经验不足难以招架
+LOCATION:墨西哥城体育场（阿兹特克体育场） 墨西哥城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R2-COD-COL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260624T170000Z
+DTEND:20260624T190000Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿英格兰 vs 🇬🇭加纳
+DESCRIPTION:小组：L组\n轮次：第2轮\n比赛双方：英格兰 vs 加纳\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：英格兰力争两连胜提前出线贝林厄姆凯恩组合 加纳非洲黑星力图阻击三狮军团 欧洲传统劲旅对阵非洲劲旅\n\n📊 胜负预测：英格兰胜（大概率） 英格兰实力碾压攻击线豪华加纳防守难以招架 预计英格兰一球以上取胜
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R2-ENG-GHA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260624T190000Z
+DTEND:20260624T210000Z
+SUMMARY:🇭🇷克罗地亚 vs 🇵🇦巴拿马
+DESCRIPTION:小组：L组\n轮次：第2轮\n比赛双方：克罗地亚 vs 巴拿马\n球场：多伦多体育场\n\n🏆 比赛看点：克罗地亚莫德里奇最后一届世界杯力争出线 巴拿马第二次世界杯期待抢分 欧洲技术流对阵中北美劲旅\n\n📊 胜负预测：克罗地亚胜（大概率） 克罗地亚大赛经验丰富莫德里奇中场大师 巴拿马实力有限但防守不容小觑
+LOCATION:多伦多体育场 多伦多
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R2-CRO-PAN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🇨🇿捷克 vs 🇲🇽墨西哥
+DESCRIPTION:小组：A组\n轮次：第3轮\n比赛双方：捷克 vs 墨西哥\n球场：瓜达拉哈拉体育场\n\n🏆 比赛看点：捷克力争晋级墨西哥主场球迷加持 东道主墨西哥出线关键战阿兹特克雄狮全力出击\n\n📊 胜负预测：墨西哥胜（大概率） 墨西哥东道主优势叠加整体阵容占优 捷克晋级压力更大可能冒险进攻留出空当
+LOCATION:瓜达拉哈拉体育场 瓜达拉哈拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R3-CZE-MEX
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:🇿🇦南非 vs 🇰🇷韩国
+DESCRIPTION:小组：A组\n轮次：第3轮\n比赛双方：南非 vs 韩国\n球场：亚特兰大体育场（梅赛德斯-奔驰体育场）\n\n🏆 比赛看点：南非力争晋级韩国孙兴慜领军抢分 非洲劲旅对阵亚洲最强出线形势扑朔迷离\n\n📊 胜负预测：韩国胜（大概率） 韩国整体实力优于南非孙兴慜关键战发挥 南非小组赛三场消耗大战力下降
+LOCATION:亚特兰大体育场（梅赛德斯-奔驰体育场） 亚特兰大
+DTSTAMP:20260517T000000Z
+UID:FWC2026-A-R3-RSA-KOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T190000Z
+DTEND:20260625T210000Z
+SUMMARY:🇨🇭瑞士 vs 🇨🇦加拿大
+DESCRIPTION:小组：B组\n轮次：第3轮\n比赛双方：瑞士 vs 加拿大\n球场：多伦多体育场\n\n🏆 比赛看点：瑞士力争小组头名加拿大主场最后一战 东道主优势对阵欧洲劲旅出线名额争夺\n\n📊 胜负预测：平局（大概率） 瑞士大赛经验丰富实力略优 加拿大主场气氛加持双方打平可能性大
+LOCATION:多伦多体育场 多伦多
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R3-SUI-CAN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T190000Z
+DTEND:20260625T210000Z
+SUMMARY:🇧🇦波黑 vs 🇶🇦卡塔尔
+DESCRIPTION:小组：B组\n轮次：第3轮\n比赛双方：波黑 vs 卡塔尔\n球场：温哥华BC广场体育场\n\n🏆 比赛看点：波黑力争首胜晋级希望仍在 卡塔尔亚洲冠军力图挽回颜面 欧洲黑马对阵亚洲劲旅\n\n📊 胜负预测：平局（大概率） 波黑淘汰意大利实力不俗但状态起伏 卡塔尔出线无望但为荣誉而战拼劲十足
+LOCATION:温哥华BC广场体育场 温哥华
+DTSTAMP:20260517T000000Z
+UID:FWC2026-B-R3-BIH-QAT
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T220000Z
+DTEND:20260626T000000Z
+SUMMARY:🏴󠁧󠁢󠁳󠁣󠁴󠁿苏格兰 vs 🇧🇷巴西
+DESCRIPTION:小组：C组\n轮次：第3轮\n比赛双方：苏格兰 vs 巴西\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：苏格兰28年首回世界杯力争晋级 五星巴西维尼修斯领衔提前出线 欧洲足球对阵桑巴军团实力对比\n\n📊 胜负预测：巴西胜（大概率） 巴西实力碾压安切洛蒂挂帅战术丰富 苏格兰需拿分但面对巴西难度极高
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R3-SCO-BRA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T220000Z
+DTEND:20260626T000000Z
+SUMMARY:🇲🇦摩洛哥 vs 🇭🇹海地
+DESCRIPTION:小组：C组\n轮次：第3轮\n比赛双方：摩洛哥 vs 海地\n球场：费城体育场（林肯金融体育场）\n\n🏆 比赛看点：摩洛哥上届四强力争头名晋级 海地52年首回世界杯期待首胜 非洲最强黑马对阵加勒比新军\n\n📊 胜负预测：摩洛哥胜（大概率） 摩洛哥实力碾压上届四强底蕴深厚 海地小组实力最弱三战皆负可能性大
+LOCATION:费城体育场（林肯金融体育场） 费城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-C-R3-MAR-HAI
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🇹🇷土耳其 vs 🇺🇸美国
+DESCRIPTION:小组：D组\n轮次：第3轮\n比赛双方：土耳其 vs 美国\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：土耳其附加赛晋级力争出线关键战 美国东道主主场球迷加持 欧亚交汇对阵东道主出线名额之争\n\n📊 胜负预测：美国胜（大概率） 美国主场气势如虹阵容活力十足 土耳其大赛经验不足客场劣势明显
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R3-TUR-USA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T020000Z
+DTEND:20260626T040000Z
+SUMMARY:🇵🇾巴拉圭 vs 🇦🇺澳大利亚
+DESCRIPTION:小组：D组\n轮次：第3轮\n比赛双方：巴拉圭 vs 澳大利亚\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：巴拉圭南美铁血防守力争出线 澳大利亚亚洲劲旅关键战力求晋级 南美防守对阵亚洲攻势\n\n📊 胜负预测：平局（大概率） 巴拉圭防守稳固澳大利亚大赛经验丰富 两队实力在伯仲之间胜负难分
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-D-R3-PAR-AUS
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T200000Z
+DTEND:20260626T220000Z
+SUMMARY:🇪🇨厄瓜多尔 vs 🇩🇪德国
+DESCRIPTION:小组：E组\n轮次：第3轮\n比赛双方：厄瓜多尔 vs 德国\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：厄瓜多尔力争出线关键战德国头名之争 德国战车力争三连胜穆西亚拉维尔茨状态关键 南美劲旅对阵欧洲战车\n\n📊 胜负预测：德国胜（大概率） 德国三连胜气势如虹整体实力碾压 厄瓜多尔防守面对德国强大攻势难以招架
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R3-ECU-GER
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T200000Z
+DTEND:20260626T220000Z
+SUMMARY:🇨🇼库拉索 vs 🇨🇮科特迪瓦
+DESCRIPTION:小组：E组\n轮次：第3轮\n比赛双方：库拉索 vs 科特迪瓦\n球场：费城体育场（林肯金融体育场）\n\n🏆 比赛看点：库拉索历史首秀最后一战争取进球 科特迪瓦非洲杯冠军力争晋级 加勒比新军对阵非洲大象\n\n📊 胜负预测：科特迪瓦胜（大概率） 科特迪瓦实力明显占优力争大胜抢净胜球 库拉索实力偏弱三连败可能性大
+LOCATION:费城体育场（林肯金融体育场） 费城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-E-R3-CUW-CIV
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T230000Z
+DTEND:20260627T010000Z
+SUMMARY:🇯🇵日本 vs 🇸🇪瑞典
+DESCRIPTION:小组：F组\n轮次：第3轮\n比赛双方：日本 vs 瑞典\n球场：蒙特雷体育场\n\n🏆 比赛看点：日本蓝武士力争出线关键战远藤航久保建英领衔 瑞典时隔八年重返世界杯争夺晋级名额 亚洲最强对阵北欧利刃\n\n📊 胜负预测：日本胜（大概率） 日本阵容豪华技术优势明显 瑞典重返世界杯后两场消耗较大状态存疑
+LOCATION:蒙特雷体育场 蒙特雷
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R3-JPN-SWE
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260626T230000Z
+DTEND:20260627T010000Z
+SUMMARY:🇹🇳突尼斯 vs 🇳🇱荷兰
+DESCRIPTION:小组：F组\n轮次：第3轮\n比赛双方：突尼斯 vs 荷兰\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：突尼斯力争出线最后机会挑战荷兰 荷兰力争小组头名科曼二期冲击冠军 非洲劲旅对阵无冕之王\n\n📊 胜负预测：荷兰胜（大概率） 荷兰实力碾压攻击力全面 突尼斯实力稍逊面对欧洲强队难度较大
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-F-R3-TUN-NED
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260627T190000Z
+DTEND:20260627T210000Z
+SUMMARY:🇧🇪比利时 vs 🇳🇿新西兰
+DESCRIPTION:小组：G组\n轮次：第3轮\n比赛双方：比利时 vs 新西兰\n球场：西雅图体育场（流明体育场）\n\n🏆 比赛看点：比利时力争小组头名德布劳内最后一届世界杯 新西兰大洋洲独苗为荣誉而战 欧洲红魔对阵大洋洲劲旅\n\n📊 胜负预测：比利时胜（大概率大胜） 比利时实力碾压德布劳内卢卡库双核驱动 新西兰实力差距悬殊预计三球以上失利
+LOCATION:西雅图体育场（流明体育场） 西雅图
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R3-BEL-NZL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260627T190000Z
+DTEND:20260627T210000Z
+SUMMARY:🇪🇬埃及 vs 🇮🇷伊朗
+DESCRIPTION:小组：G组\n轮次：第3轮\n比赛双方：埃及 vs 伊朗\n球场：洛杉矶体育场（SoFi体育场）\n\n🏆 比赛看点：埃及萨拉赫力争带队出线最后一战 伊朗亚洲铁骑塔雷米阿兹蒙双枪力图阻击 非洲球星对阵亚洲劲旅\n\n📊 胜负预测：平局（大概率） 埃及萨拉赫个人能力突出但防守有漏洞 伊朗防守稳固反击有威胁两队出线形势接近
+LOCATION:洛杉矶体育场（SoFi体育场） 洛杉矶
+DTSTAMP:20260517T000000Z
+UID:FWC2026-G-R3-EGY-IRN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T000000Z
+DTEND:20260628T020000Z
+SUMMARY:🇪🇸西班牙 vs 🇺🇾乌拉圭
+DESCRIPTION:小组：H组\n轮次：第3轮\n比赛双方：西班牙 vs 乌拉圭\n球场：亚特兰大体育场（梅赛德斯-奔驰体育场）\n\n🏆 比赛看点：小组赛最强对决之一斗牛士vs天蓝军团 西班牙传控足球对阵乌拉圭铁血防守 两大夺冠热门争夺小组头名\n\n📊 胜负预测：平局（大概率） 西班牙传控体系面对乌拉圭铁血防线考验 两队实力旗鼓相当小组头名之争精彩纷呈
+LOCATION:亚特兰大体育场（梅赛德斯-奔驰体育场） 亚特兰大
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R3-ESP-URU
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T000000Z
+DTEND:20260628T020000Z
+SUMMARY:🇨🇻佛得角 vs 🇸🇦沙特阿拉伯
+DESCRIPTION:小组：H组\n轮次：第3轮\n比赛双方：佛得角 vs 沙特阿拉伯\n球场：迈阿密体育场（硬石体育场）\n\n🏆 比赛看点：佛得角历史首秀力争首胜 沙特阿拉伯亚洲劲旅为荣誉而战 非洲新军对阵亚洲绿隼\n\n📊 胜负预测：平局（大概率） 佛得角大赛经验不足沙特亚洲杯冠军韧劲仍在 两队实力接近最后一轮更多为荣誉而战
+LOCATION:迈阿密体育场（硬石体育场） 迈阿密花园
+DTSTAMP:20260517T000000Z
+UID:FWC2026-H-R3-CPV-KSA
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T030000Z
+DTEND:20260628T050000Z
+SUMMARY:🇫🇷法国 vs 🇳🇴挪威
+DESCRIPTION:小组：I组\n轮次：第3轮\n比赛双方：法国 vs 挪威\n球场：纽约新泽西体育场（大都会人寿体育场）\n\n🏆 比赛看点：姆巴佩vs哈兰德当今足坛两大巨星直接对话！ 法国卫冕冠军豪华攻击线对决挪威北欧力量 I组头名之争死亡之组最强战\n\n📊 胜负预测：法国胜（大概率） 法国阵容深度远超挪威姆巴佩速度优势明显 哈兰德个人能力虽强但挪威整体实力不及法国
+LOCATION:纽约新泽西体育场（大都会人寿体育场） 纽约
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R3-FRA-NOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T030000Z
+DTEND:20260628T050000Z
+SUMMARY:🇸🇳塞内加尔 vs 🇮🇶伊拉克
+DESCRIPTION:小组：I组\n轮次：第3轮\n比赛双方：塞内加尔 vs 伊拉克\n球场：波士顿体育场（吉列体育场）\n\n🏆 比赛看点：塞内加尔非洲冠军力争出线关键战 伊拉克时隔40年重返世界杯力争首胜 非洲雄狮对阵亚洲黑马\n\n📊 胜负预测：塞内加尔胜（大概率） 塞内加尔非洲杯冠军防守稳固 伊拉克实力差距明显大赛经验不足
+LOCATION:波士顿体育场（吉列体育场） 福克斯堡
+DTSTAMP:20260517T000000Z
+UID:FWC2026-I-R3-SEN-IRQ
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T170000Z
+DTEND:20260628T190000Z
+SUMMARY:🇦🇷阿根廷 vs 🇯🇴约旦
+DESCRIPTION:小组：J组\n轮次：第3轮\n比赛双方：阿根廷 vs 约旦\n球场：堪萨斯城体育场（箭头体育场）\n\n🏆 比赛看点：梅西最后一届世界杯小组收官战 约旦历史首次世界杯对阵卫冕冠军 潘帕斯雄鹰力争三连胜头名出线\n\n📊 胜负预测：阿根廷胜（大概率大胜） 阿根廷实力碾压梅西大赛经验丰富 约旦实力差距悬殊预计三球以上失利
+LOCATION:堪萨斯城体育场（箭头体育场） 堪萨斯城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R3-ARG-JOR
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260628T170000Z
+DTEND:20260628T190000Z
+SUMMARY:🇩🇿阿尔及利亚 vs 🇦🇹奥地利
+DESCRIPTION:小组：J组\n轮次：第3轮\n比赛双方：阿尔及利亚 vs 奥地利\n球场：旧金山湾区体育场（李维斯体育场）\n\n🏆 比赛看点：阿尔及利亚力争出线最后一战 奥地利阿拉巴领衔欧洲劲旅争夺晋级名额 非洲劲旅对阵欧洲技术流\n\n📊 胜负预测：奥地利胜（大概率） 奥地利整体实力优于阿尔及利亚 阿尔及利亚前两轮消耗较大出线形势被动
+LOCATION:旧金山湾区体育场（李维斯体育场） 圣克拉拉
+DTSTAMP:20260517T000000Z
+UID:FWC2026-J-R3-ALG-AUT
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260629T010000Z
+DTEND:20260629T030000Z
+SUMMARY:🇵🇹葡萄牙 vs 🇨🇴哥伦比亚
+DESCRIPTION:小组：K组\n轮次：第3轮\n比赛双方：葡萄牙 vs 哥伦比亚\n球场：休斯顿体育场（NRG体育场）\n\n🏆 比赛看点：葡萄牙C罗带队力争小组头名最后一战 哥伦比亚路易斯·迪亚斯领衔力争出线 欧洲劲旅对阵南美豪强\n\n📊 胜负预测：葡萄牙胜（大概率） 葡萄牙整体实力占优C罗大赛经验关键 哥伦比亚实力不俗但面对葡萄牙防线挑战较大
+LOCATION:休斯顿体育场（NRG体育场） 休斯顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R3-POR-COL
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260629T010000Z
+DTEND:20260629T030000Z
+SUMMARY:🇨🇩民主刚果 vs 🇺🇿乌兹别克斯坦
+DESCRIPTION:小组：K组\n轮次：第3轮\n比赛双方：民主刚果 vs 乌兹别克斯坦\n球场：墨西哥城体育场（阿兹特克体育场）\n\n🏆 比赛看点：民主刚果52年重返世界杯力争首胜 乌兹别克历史首秀力图突破 非洲黑马对阵亚洲新军\n\n📊 胜负预测：平局（大概率） 两队实力接近均为世界杯稀客 最后一轮更多为荣誉而战出线希望不大
+LOCATION:墨西哥城体育场（阿兹特克体育场） 墨西哥城
+DTSTAMP:20260517T000000Z
+UID:FWC2026-K-R3-COD-UZB
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260629T030000Z
+DTEND:20260629T050000Z
+SUMMARY:🏴󠁧󠁢󠁥󠁮󠁧󠁿英格兰 vs 🇵🇦巴拿马
+DESCRIPTION:小组：L组\n轮次：第3轮\n比赛双方：英格兰 vs 巴拿马\n球场：达拉斯体育场（AT&T体育场）\n\n🏆 比赛看点：英格兰力争三连胜头名出线贝林厄姆凯恩组合火力全开 巴拿马第二次世界杯期待抢分 欧洲传统劲旅对阵中北美球队\n\n📊 胜负预测：英格兰胜（大概率大胜） 英格兰实力碾压攻击线豪华 巴拿马实力差距悬殊预计三球以上失利
+LOCATION:达拉斯体育场（AT&T体育场） 阿灵顿
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R3-ENG-PAN
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260629T030000Z
+DTEND:20260629T050000Z
+SUMMARY:🇭🇷克罗地亚 vs 🇬🇭加纳
+DESCRIPTION:小组：L组\n轮次：第3轮\n比赛双方：克罗地亚 vs 加纳\n球场：多伦多体育场\n\n🏆 比赛看点：克罗地亚莫德里奇最后一届世界杯力争出线 加纳非洲黑星力图爆冷晋级 欧洲技术流对阵非洲速度\n\n📊 胜负预测：克罗地亚胜（大概率） 克罗地亚大赛经验丰富莫德里奇中场大师 加纳速度有优势但防守端漏洞较多
+LOCATION:多伦多体育场 多伦多
+DTSTAMP:20260517T000000Z
+UID:FWC2026-L-R3-CRO-GHA
 END:VEVENT
 
 END:VCALENDAR
